@@ -1,0 +1,2982 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <key id="vertex_label_key" for="node" attr.name="VertexLabel" attr.type="string"/>
+    <key id="edge_label_key" for="edge" attr.name="EdgeLabel" attr.type="string"/>
+    <key id="edge_weight_key" for="edge" attr.name="weight" attr.type="double">
+        <default>1.0</default>
+    </key>
+    <key id="key0" for="node" attr.name="node_type" attr.type="string">
+        <default/>
+    </key>
+    <key id="key1" for="node" attr.name="r" attr.type="int">
+        <default>0</default>
+    </key>
+    <key id="key2" for="node" attr.name="g" attr.type="int">
+        <default>0</default>
+    </key>
+    <key id="key3" for="node" attr.name="b" attr.type="int">
+        <default>0</default>
+    </key>
+    <key id="key4" for="node" attr.name="betweenness_centrality" attr.type="double">
+        <default>0</default>
+    </key>
+    <graph edgedefault="undirected">
+        <node id="KEYWORD_1">
+            <data key="vertex_label_key">css</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.033991115502092335</data>
+        </node>
+        <node id="CHANNEL_1">
+            <data key="vertex_label_key">Fiasco</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.022449678147042733</data>
+        </node>
+        <node id="CHANNEL_4">
+            <data key="vertex_label_key">CriaScript</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0012642466122167574</data>
+        </node>
+        <node id="CHANNEL_86">
+            <data key="vertex_label_key">Serliv_|_Daniel_Tapias_Morales</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.04965852805682253</data>
+        </node>
+        <node id="CHANNEL_110">
+            <data key="vertex_label_key">Adriano_Viana</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.008789832523787892</data>
+        </node>
+        <node id="CHANNEL_81">
+            <data key="vertex_label_key">Coisa_de_Nômade</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.024678076865740653</data>
+        </node>
+        <node id="CHANNEL_65">
+            <data key="vertex_label_key">DevClub_|_Programação</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_52">
+            <data key="vertex_label_key">freeCodeCamp_em_Português</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_170">
+            <data key="vertex_label_key">DuarttHub</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.004869807157553039</data>
+        </node>
+        <node id="CHANNEL_6">
+            <data key="vertex_label_key">Larissa_Kich</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.006494872412122071</data>
+        </node>
+        <node id="CHANNEL_46">
+            <data key="vertex_label_key">Caminho_do_Código</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.049193535665327234</data>
+        </node>
+        <node id="KEYWORD_2">
+            <data key="vertex_label_key">javas</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.013365711917039079</data>
+        </node>
+        <node id="CHANNEL_58">
+            <data key="vertex_label_key">Dev_Junior_Alves</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0212829648115321</data>
+        </node>
+        <node id="CHANNEL_193">
+            <data key="vertex_label_key">Rafael_-_AI</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.030100996572518524</data>
+        </node>
+        <node id="CHANNEL_160">
+            <data key="vertex_label_key">Dev_Victor_Navarro</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.063172923057236</data>
+        </node>
+        <node id="KEYWORD_3">
+            <data key="vertex_label_key">html</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.006035954307975837</data>
+        </node>
+        <node id="KEYWORD_4">
+            <data key="vertex_label_key">portugol</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.008773097164546476</data>
+        </node>
+        <node id="CHANNEL_112">
+            <data key="vertex_label_key">Web_Programadores</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_189">
+            <data key="vertex_label_key">MarcosPS</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.011579505486404297</data>
+        </node>
+        <node id="KEYWORD_5">
+            <data key="vertex_label_key">react</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">6.262555445260676E-4</data>
+        </node>
+        <node id="KEYWORD_7">
+            <data key="vertex_label_key">github</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.04694255585787334</data>
+        </node>
+        <node id="CHANNEL_92">
+            <data key="vertex_label_key">pythonando</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.001246462973991879</data>
+        </node>
+        <node id="CHANNEL_120">
+            <data key="vertex_label_key">Micael_Mota</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_142">
+            <data key="vertex_label_key">FZF_Productions</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0013003830565488522</data>
+        </node>
+        <node id="CHANNEL_145">
+            <data key="vertex_label_key">Mente_Maker</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.004906649698228504</data>
+        </node>
+        <node id="CHANNEL_85">
+            <data key="vertex_label_key">Felipe_Rocha_•_Full_Stack_Club</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.070690524719348</data>
+        </node>
+        <node id="CHANNEL_128">
+            <data key="vertex_label_key">Locaweb</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0317002949066792</data>
+        </node>
+        <node id="CHANNEL_35">
+            <data key="vertex_label_key">mano_deyvin</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.03581628857288894</data>
+        </node>
+        <node id="CHANNEL_181">
+            <data key="vertex_label_key">Alessandro_Varela</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0591234568226185</data>
+        </node>
+        <node id="CHANNEL_231">
+            <data key="vertex_label_key">O_hacker_cego</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.014764818330070012</data>
+        </node>
+        <node id="KEYWORD_9">
+            <data key="vertex_label_key">roadmap</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.002774171500029113</data>
+        </node>
+        <node id="CHANNEL_45">
+            <data key="vertex_label_key">Attekita_Dev</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.016984413717054735</data>
+        </node>
+        <node id="CHANNEL_185">
+            <data key="vertex_label_key">Jiraverso_-_Especialistas_em_Jira</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.009490954929863859</data>
+        </node>
+        <node id="KEYWORD_10">
+            <data key="vertex_label_key">bootstrap</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.001125188200621008</data>
+        </node>
+        <node id="CHANNEL_156">
+            <data key="vertex_label_key">MAYKON_SILVEIRA</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.02675335660573094</data>
+        </node>
+        <node id="KEYWORD_11">
+            <data key="vertex_label_key">git</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.0010946117549150206</data>
+        </node>
+        <node id="KEYWORD_12">
+            <data key="vertex_label_key">tecnologia</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.11369786285255237</data>
+        </node>
+        <node id="CHANNEL_2">
+            <data key="vertex_label_key">Bits_Bytes_Cortes</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_10">
+            <data key="vertex_label_key">daniops</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.014752266398283746</data>
+        </node>
+        <node id="CHANNEL_24">
+            <data key="vertex_label_key">Aguiar_Dev</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_29">
+            <data key="vertex_label_key">Renato_Augusto</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.022594579996835912</data>
+        </node>
+        <node id="CHANNEL_30">
+            <data key="vertex_label_key">Programador_BR</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0020872492084268936</data>
+        </node>
+        <node id="CHANNEL_33">
+            <data key="vertex_label_key">spacecoding</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.017137376733927876</data>
+        </node>
+        <node id="CHANNEL_59">
+            <data key="vertex_label_key">Gustavo_Tomazoli</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_71">
+            <data key="vertex_label_key">Alexandre_Leutz</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.010696527619350924</data>
+        </node>
+        <node id="CHANNEL_72">
+            <data key="vertex_label_key">Tech_Evy</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_75">
+            <data key="vertex_label_key">Eu_TI_Ensino</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0010817235403875432</data>
+        </node>
+        <node id="CHANNEL_76">
+            <data key="vertex_label_key">Fernanda_Kipper_|_Dev</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0020872492084268936</data>
+        </node>
+        <node id="CHANNEL_106">
+            <data key="vertex_label_key">hAMPTER</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_107">
+            <data key="vertex_label_key">Spacelaxy</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.004047755549268368</data>
+        </node>
+        <node id="CHANNEL_129">
+            <data key="vertex_label_key">Área_Tech_Brasil</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.031228700530195903</data>
+        </node>
+        <node id="CHANNEL_137">
+            <data key="vertex_label_key">Guilherme_Pereira</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.003856607267187884</data>
+        </node>
+        <node id="CHANNEL_174">
+            <data key="vertex_label_key">Prof._Rogério_Napoleão_Jr.</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.022041860998631826</data>
+        </node>
+        <node id="CHANNEL_210">
+            <data key="vertex_label_key">Full_Cycle</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0020872492084268936</data>
+        </node>
+        <node id="CHANNEL_221">
+            <data key="vertex_label_key">Danilo_Brizola_|_Surfando_com_IA</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.011126692184748837</data>
+        </node>
+        <node id="CHANNEL_21">
+            <data key="vertex_label_key">Pedro_Passos</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.01600555408715574</data>
+        </node>
+        <node id="KEYWORD_15">
+            <data key="vertex_label_key">sistema</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.16877195805594353</data>
+        </node>
+        <node id="CHANNEL_5">
+            <data key="vertex_label_key">Code</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_13">
+            <data key="vertex_label_key">Manual_do_Mundo</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.009762483107365348</data>
+        </node>
+        <node id="CHANNEL_19">
+            <data key="vertex_label_key">Refatorando</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.05856179095920726</data>
+        </node>
+        <node id="CHANNEL_36">
+            <data key="vertex_label_key">Gustavo_Caetano</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.002748594986452688</data>
+        </node>
+        <node id="CHANNEL_83">
+            <data key="vertex_label_key">Rafael_Brito</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_100">
+            <data key="vertex_label_key">Bóson_Treinamentos</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.05677595545172811</data>
+        </node>
+        <node id="CHANNEL_114">
+            <data key="vertex_label_key">Loid_Padre</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.03214992229084557</data>
+        </node>
+        <node id="CHANNEL_113">
+            <data key="vertex_label_key">pessonizando</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.01767599733727098</data>
+        </node>
+        <node id="CHANNEL_153">
+            <data key="vertex_label_key">Caio_H_Perlin</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.00565996689345557</data>
+        </node>
+        <node id="CHANNEL_163">
+            <data key="vertex_label_key">Marcelo_David_-_Treinamentos</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0018199083798450227</data>
+        </node>
+        <node id="CHANNEL_182">
+            <data key="vertex_label_key">TinoTech</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.026043682064477144</data>
+        </node>
+        <node id="CHANNEL_192">
+            <data key="vertex_label_key">Rogerio_Pontes_TI</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.058306373036079405</data>
+        </node>
+        <node id="CHANNEL_38">
+            <data key="vertex_label_key">João_Alves</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.006906765335127637</data>
+        </node>
+        <node id="CHANNEL_64">
+            <data key="vertex_label_key">Alura</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.003024185867574855</data>
+        </node>
+        <node id="CHANNEL_219">
+            <data key="vertex_label_key">Rafael_Lunardelli_(O_Pinguim_do_Laravel)</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.017824060094243803</data>
+        </node>
+        <node id="CHANNEL_183">
+            <data key="vertex_label_key">Crescencio_Lima</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.017170660886983286</data>
+        </node>
+        <node id="CHANNEL_222">
+            <data key="vertex_label_key">alfacompbrasil</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.03131482443727463</data>
+        </node>
+        <node id="KEYWORD_16">
+            <data key="vertex_label_key">rede</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.06375849778737175</data>
+        </node>
+        <node id="CHANNEL_14">
+            <data key="vertex_label_key">DevMedia</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.004839245884519883</data>
+        </node>
+        <node id="CHANNEL_17">
+            <data key="vertex_label_key">Hashtag_Programação</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0025706075473695537</data>
+        </node>
+        <node id="CHANNEL_44">
+            <data key="vertex_label_key">Dev_Robert</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0013854870731314435</data>
+        </node>
+        <node id="CHANNEL_101">
+            <data key="vertex_label_key">Cod3r_Cursos</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">8.564484738433886E-4</data>
+        </node>
+        <node id="CHANNEL_111">
+            <data key="vertex_label_key">Universo_Programado</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_121">
+            <data key="vertex_label_key">Bruno_Siqueira_-_Simplificando_Celular</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_143">
+            <data key="vertex_label_key">Diolinux_Labs</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">3.6221280730141365E-4</data>
+        </node>
+        <node id="CHANNEL_164">
+            <data key="vertex_label_key">&#128293;TrenDs_News_&#128640;</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.002977833162019227</data>
+        </node>
+        <node id="CHANNEL_175">
+            <data key="vertex_label_key">Dev_em_Dobro_LIVES_|_Programação</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_228">
+            <data key="vertex_label_key">Carreira_Tech</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.005707353868446684</data>
+        </node>
+        <node id="KEYWORD_17">
+            <data key="vertex_label_key">erro</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.0031264384042678627</data>
+        </node>
+        <node id="KEYWORD_18">
+            <data key="vertex_label_key">engenharia</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.03339286467552382</data>
+        </node>
+        <node id="CHANNEL_7">
+            <data key="vertex_label_key">UNIVESP</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_148">
+            <data key="vertex_label_key">Gran_Cursos_Online</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">3.1589918555019995E-4</data>
+        </node>
+        <node id="CHANNEL_199">
+            <data key="vertex_label_key">Eu,_Sabrina</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="KEYWORD_21">
+            <data key="vertex_label_key">plataforma</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.023905579006087262</data>
+        </node>
+        <node id="CHANNEL_8">
+            <data key="vertex_label_key">Rocketseat</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.023808842185444334</data>
+        </node>
+        <node id="CHANNEL_43">
+            <data key="vertex_label_key">Código_Fonte_TV</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.012191560862532366</data>
+        </node>
+        <node id="CHANNEL_54">
+            <data key="vertex_label_key">Elber_Domingos_|_IMPACTUS_Academy</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.017118444683382125</data>
+        </node>
+        <node id="CHANNEL_138">
+            <data key="vertex_label_key">Eric_Grassi</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.031480818661778494</data>
+        </node>
+        <node id="KEYWORD_22">
+            <data key="vertex_label_key">processo</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.026697296548208477</data>
+        </node>
+        <node id="CHANNEL_23">
+            <data key="vertex_label_key">José_Castilho_-_Desenvolvedor_Disputado</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_158">
+            <data key="vertex_label_key">Breno_Vieira_LionLab_</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.035200770884511005</data>
+        </node>
+        <node id="CHANNEL_162">
+            <data key="vertex_label_key">Felipe_Alves</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_180">
+            <data key="vertex_label_key">Carlos_Gouvea</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_217">
+            <data key="vertex_label_key">VRTech_Tecnologias_Industriais</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.002031076276627235</data>
+        </node>
+        <node id="KEYWORD_26">
+            <data key="vertex_label_key">jogo</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.025262086859651922</data>
+        </node>
+        <node id="CHANNEL_12">
+            <data key="vertex_label_key">Curso_em_Vídeo</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0017032367889106507</data>
+        </node>
+        <node id="CHANNEL_168">
+            <data key="vertex_label_key">Tiago_Aguiar</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0032205154923990397</data>
+        </node>
+        <node id="CHANNEL_194">
+            <data key="vertex_label_key">Do_Zero_ao_Indie</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="KEYWORD_28">
+            <data key="vertex_label_key">python</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.03689553810345838</data>
+        </node>
+        <node id="CHANNEL_32">
+            <data key="vertex_label_key">Eficiência_Programada</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_40">
+            <data key="vertex_label_key">bremado</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_74">
+            <data key="vertex_label_key">Mateo_Valderrama</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">3.9848235637692295E-4</data>
+        </node>
+        <node id="CHANNEL_223">
+            <data key="vertex_label_key">Felipe_Talks</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0025434309649282733</data>
+        </node>
+        <node id="KEYWORD_37">
+            <data key="vertex_label_key">programa</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.005612353960913082</data>
+        </node>
+        <node id="CHANNEL_155">
+            <data key="vertex_label_key">Video_Makers_Art</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">2.454361206724625E-4</data>
+        </node>
+        <node id="KEYWORD_40">
+            <data key="vertex_label_key">programador</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.09513245178097408</data>
+        </node>
+        <node id="CHANNEL_26">
+            <data key="vertex_label_key">DevZito</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.002305959145357459</data>
+        </node>
+        <node id="CHANNEL_31">
+            <data key="vertex_label_key">Yudi_Ganeko</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.007945697904092289</data>
+        </node>
+        <node id="CHANNEL_16">
+            <data key="vertex_label_key">Victor_Lima_-_Ciência_da_Computação</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.005460228932970917</data>
+        </node>
+        <node id="CHANNEL_102">
+            <data key="vertex_label_key">NerdLife</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.002305959145357459</data>
+        </node>
+        <node id="CHANNEL_165">
+            <data key="vertex_label_key">Derci_Santos_-_Dev</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_191">
+            <data key="vertex_label_key">Adriano_Santos_Treinamentos</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.022163952469867212</data>
+        </node>
+        <node id="CHANNEL_127">
+            <data key="vertex_label_key">Lucas_Montano</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.008088956150636567</data>
+        </node>
+        <node id="CHANNEL_227">
+            <data key="vertex_label_key">Super_Cut's</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="KEYWORD_41">
+            <data key="vertex_label_key">stack</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.002986537967499331</data>
+        </node>
+        <node id="KEYWORD_44">
+            <data key="vertex_label_key">código</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.14163784152959147</data>
+        </node>
+        <node id="CHANNEL_18">
+            <data key="vertex_label_key">Investindo_em_Tech</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.001969439443653784</data>
+        </node>
+        <node id="CHANNEL_63">
+            <data key="vertex_label_key">Mundo_Tech_Software_School</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">9.02922755614764E-4</data>
+        </node>
+        <node id="CHANNEL_108">
+            <data key="vertex_label_key">Dev_Duck</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_119">
+            <data key="vertex_label_key">@_HDEV_Info_by_Robson_Mendonça</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0012965000057261655</data>
+        </node>
+        <node id="CHANNEL_124">
+            <data key="vertex_label_key">Mago_Acadêmico</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_126">
+            <data key="vertex_label_key">Canal_do_Rubão</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.008761731055327578</data>
+        </node>
+        <node id="CHANNEL_147">
+            <data key="vertex_label_key">Hostinger_Brasil</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.005904403752211791</data>
+        </node>
+        <node id="CHANNEL_150">
+            <data key="vertex_label_key">Maestros_da_IA</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.024372815127187832</data>
+        </node>
+        <node id="CHANNEL_216">
+            <data key="vertex_label_key">Programação_&amp;_Dev_Games:_C/C++_Unreal_e_Blueprints</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.004335190907066473</data>
+        </node>
+        <node id="KEYWORD_46">
+            <data key="vertex_label_key">teste</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.04845357122059386</data>
+        </node>
+        <node id="CHANNEL_131">
+            <data key="vertex_label_key">Leonardo_Luz</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_134">
+            <data key="vertex_label_key">Argonalyst</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0011870712839094123</data>
+        </node>
+        <node id="CHANNEL_146">
+            <data key="vertex_label_key">Testing_Company</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_204">
+            <data key="vertex_label_key">Fulltureschool</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.007184512740206538</data>
+        </node>
+        <node id="CHANNEL_230">
+            <data key="vertex_label_key">O_Cara_do_Teste</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0034231335797141028</data>
+        </node>
+        <node id="KEYWORD_47">
+            <data key="vertex_label_key">solução</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.004281519880141912</data>
+        </node>
+        <node id="KEYWORD_48">
+            <data key="vertex_label_key">requisito</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.0019599398440222978</data>
+        </node>
+        <node id="KEYWORD_52">
+            <data key="vertex_label_key">computador</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.006130281058993164</data>
+        </node>
+        <node id="KEYWORD_54">
+            <data key="vertex_label_key">tarefa</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.02066112936594509</data>
+        </node>
+        <node id="CHANNEL_149">
+            <data key="vertex_label_key">Deviot</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0018811353204780214</data>
+        </node>
+        <node id="CHANNEL_195">
+            <data key="vertex_label_key">Vini_Lana</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.003912884706179606</data>
+        </node>
+        <node id="CHANNEL_225">
+            <data key="vertex_label_key">Descomplicando_a_TI</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="KEYWORD_57">
+            <data key="vertex_label_key">php</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">3.602819006059401E-4</data>
+        </node>
+        <node id="CHANNEL_132">
+            <data key="vertex_label_key">Karsharg</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0052323924943093935</data>
+        </node>
+        <node id="KEYWORD_58">
+            <data key="vertex_label_key">aplicação</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.0012113827369430326</data>
+        </node>
+        <node id="KEYWORD_62">
+            <data key="vertex_label_key">desenvolvedor</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.03548016080529151</data>
+        </node>
+        <node id="CHANNEL_56">
+            <data key="vertex_label_key">HighDev4</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_130">
+            <data key="vertex_label_key">Giaretta</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.017135498015924622</data>
+        </node>
+        <node id="KEYWORD_63">
+            <data key="vertex_label_key">ti</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.007459493572682039</data>
+        </node>
+        <node id="KEYWORD_67">
+            <data key="vertex_label_key">dado</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.053342889739699535</data>
+        </node>
+        <node id="CHANNEL_177">
+            <data key="vertex_label_key">Tiago_A._Silva</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0037227006523677694</data>
+        </node>
+        <node id="KEYWORD_69">
+            <data key="vertex_label_key">projeto</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.17621506705667428</data>
+        </node>
+        <node id="CHANNEL_133">
+            <data key="vertex_label_key">Rafael_Quintanilha_–_QuantBrasil</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0163259798961074</data>
+        </node>
+        <node id="CHANNEL_209">
+            <data key="vertex_label_key">Juriolli_Code</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="KEYWORD_81">
+            <data key="vertex_label_key">arquitetura</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.017026358456906105</data>
+        </node>
+        <node id="CHANNEL_184">
+            <data key="vertex_label_key">Theu</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0022560687304266002</data>
+        </node>
+        <node id="KEYWORD_84">
+            <data key="vertex_label_key">java</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.024989031820529854</data>
+        </node>
+        <node id="CHANNEL_77">
+            <data key="vertex_label_key">Professora_Nattane</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_166">
+            <data key="vertex_label_key">DevSuperior</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="KEYWORD_85">
+            <data key="vertex_label_key">função</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.0012119780034639425</data>
+        </node>
+        <node id="KEYWORD_87">
+            <data key="vertex_label_key">tech</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.003578355382962284</data>
+        </node>
+        <node id="KEYWORD_88">
+            <data key="vertex_label_key">demanda</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">5.767502608127945E-4</data>
+        </node>
+        <node id="KEYWORD_94">
+            <data key="vertex_label_key">portfólio</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">4.958191120034855E-4</data>
+        </node>
+        <node id="KEYWORD_95">
+            <data key="vertex_label_key">site</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.028092924943066602</data>
+        </node>
+        <node id="CHANNEL_159">
+            <data key="vertex_label_key">FGP_data</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_205">
+            <data key="vertex_label_key">Wander_Pereira</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_80">
+            <data key="vertex_label_key">Jef_Dicas_Tech_&#128241;Tecnologia_</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="KEYWORD_97">
+            <data key="vertex_label_key">framework</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.005628646262864014</data>
+        </node>
+        <node id="KEYWORD_99">
+            <data key="vertex_label_key">game</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">1.6821001061962022E-4</data>
+        </node>
+        <node id="KEYWORD_106">
+            <data key="vertex_label_key">coding</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.00943979410606592</data>
+        </node>
+        <node id="CHANNEL_51">
+            <data key="vertex_label_key">brunomarcosluz</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_84">
+            <data key="vertex_label_key">NoCode_StartUp</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.005155271967283482</data>
+        </node>
+        <node id="KEYWORD_107">
+            <data key="vertex_label_key">app</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.00819672131147541</data>
+        </node>
+        <node id="CHANNEL_176">
+            <data key="vertex_label_key">Formula_APK</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="KEYWORD_108">
+            <data key="vertex_label_key">editor</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.004033214698873528</data>
+        </node>
+        <node id="KEYWORD_109">
+            <data key="vertex_label_key">pasta</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.0012302370615682196</data>
+        </node>
+        <node id="KEYWORD_110">
+            <data key="vertex_label_key">estrutura</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.0016347315793244107</data>
+        </node>
+        <node id="KEYWORD_117">
+            <data key="vertex_label_key">modelo</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.011202275015881339</data>
+        </node>
+        <node id="KEYWORD_130">
+            <data key="vertex_label_key">analista</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">4.4395083973755323E-4</data>
+        </node>
+        <node id="KEYWORD_135">
+            <data key="vertex_label_key">api</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.0040187739731659625</data>
+        </node>
+        <node id="KEYWORD_139">
+            <data key="vertex_label_key">vibe</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.0029381509784196028</data>
+        </node>
+        <node id="KEYWORD_141">
+            <data key="vertex_label_key">cursor</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.002668694771297448</data>
+        </node>
+        <node id="KEYWORD_142">
+            <data key="vertex_label_key">ferramenta</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.04665368690969859</data>
+        </node>
+        <node id="CHANNEL_186">
+            <data key="vertex_label_key">TechDicas_Diárias</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="KEYWORD_144">
+            <data key="vertex_label_key">algoritmo</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.003328043545539934</data>
+        </node>
+        <node id="KEYWORD_145">
+            <data key="vertex_label_key">design</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">2.2072401711137796E-4</data>
+        </node>
+        <node id="KEYWORD_151">
+            <data key="vertex_label_key">chatgpt</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.00819672131147541</data>
+        </node>
+        <node id="CHANNEL_97">
+            <data key="vertex_label_key">Pato_Lab</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="KEYWORD_159">
+            <data key="vertex_label_key">mysql</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.002544346567940989</data>
+        </node>
+        <node id="KEYWORD_162">
+            <data key="vertex_label_key">fluxo</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.01635971125952911</data>
+        </node>
+        <node id="CHANNEL_139">
+            <data key="vertex_label_key">Hora_do_Dev</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="CHANNEL_161">
+            <data key="vertex_label_key">Rapha_Moura_-_Simplify_AWS</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="KEYWORD_164">
+            <data key="vertex_label_key">agente</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.013967828733948631</data>
+        </node>
+        <node id="KEYWORD_165">
+            <data key="vertex_label_key">qualidade</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.007393785828904987</data>
+        </node>
+        <node id="KEYWORD_167">
+            <data key="vertex_label_key">copilot</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">6.592958114667349E-4</data>
+        </node>
+        <node id="KEYWORD_183">
+            <data key="vertex_label_key">padrão</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">7.186586297194354E-4</data>
+        </node>
+        <node id="KEYWORD_187">
+            <data key="vertex_label_key">segurança</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.003404156015191941</data>
+        </node>
+        <node id="KEYWORD_190">
+            <data key="vertex_label_key">iso</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">2.2699666848777212E-4</data>
+        </node>
+        <node id="KEYWORD_194">
+            <data key="vertex_label_key">funcionalidade</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.005606686278981767</data>
+        </node>
+        <node id="KEYWORD_195">
+            <data key="vertex_label_key">diagrama</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">8.037898736967287E-4</data>
+        </node>
+        <node id="KEYWORD_206">
+            <data key="vertex_label_key">página</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.008568498098168946</data>
+        </node>
+        <node id="CHANNEL_178">
+            <data key="vertex_label_key">DevPedroPP</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="KEYWORD_240">
+            <data key="vertex_label_key">documento</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.0011959315900289915</data>
+        </node>
+        <node id="KEYWORD_241">
+            <data key="vertex_label_key">banco</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.001312851014888186</data>
+        </node>
+        <node id="KEYWORD_244">
+            <data key="vertex_label_key">kanban</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.00819672131147541</data>
+        </node>
+        <node id="CHANNEL_167">
+            <data key="vertex_label_key">Technologiká</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="KEYWORD_249">
+            <data key="vertex_label_key">informação</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.008869631175476388</data>
+        </node>
+        <node id="CHANNEL_218">
+            <data key="vertex_label_key">True_Hacking</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="KEYWORD_251">
+            <data key="vertex_label_key">jira</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">5.162458850339989E-4</data>
+        </node>
+        <node id="KEYWORD_253">
+            <data key="vertex_label_key">configuração</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">9.879754764985003E-4</data>
+        </node>
+        <node id="KEYWORD_255">
+            <data key="vertex_label_key">conta</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.0011970120857417775</data>
+        </node>
+        <node id="KEYWORD_269">
+            <data key="vertex_label_key">kit</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.002204696580196787</data>
+        </node>
+        <node id="KEYWORD_271">
+            <data key="vertex_label_key">development</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.002204696580196787</data>
+        </node>
+        <node id="KEYWORD_272">
+            <data key="vertex_label_key">code</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.0019336062567084768</data>
+        </node>
+        <node id="KEYWORD_280">
+            <data key="vertex_label_key">saas</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">4.3786723864302276E-4</data>
+        </node>
+        <node id="KEYWORD_283">
+            <data key="vertex_label_key">claude</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.003812141805647538</data>
+        </node>
+        <node id="KEYWORD_287">
+            <data key="vertex_label_key">produto</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.011730022961834424</data>
+        </node>
+        <node id="KEYWORD_294">
+            <data key="vertex_label_key">comando</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.00819672131147541</data>
+        </node>
+        <node id="CHANNEL_190">
+            <data key="vertex_label_key">Michelli_Brito</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="KEYWORD_297">
+            <data key="vertex_label_key">automação</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.004186001048992791</data>
+        </node>
+        <node id="KEYWORD_301">
+            <data key="vertex_label_key">instalação</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.0046290684437038905</data>
+        </node>
+        <node id="KEYWORD_306">
+            <data key="vertex_label_key">linux</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">3.674867471006749E-4</data>
+        </node>
+        <node id="KEYWORD_311">
+            <data key="vertex_label_key">laravel</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.008334748525494142</data>
+        </node>
+        <node id="CHANNEL_173">
+            <data key="vertex_label_key">Eduteka_</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="KEYWORD_315">
+            <data key="vertex_label_key">arquivo</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.016474117433234594</data>
+        </node>
+        <node id="CHANNEL_206">
+            <data key="vertex_label_key">Jeterson_Lordano_|_Dev_&amp;_Tech</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="KEYWORD_322">
+            <data key="vertex_label_key">contexto</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.0011150989926515778</data>
+        </node>
+        <node id="KEYWORD_323">
+            <data key="vertex_label_key">prd</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.0011150989926515778</data>
+        </node>
+        <node id="KEYWORD_324">
+            <data key="vertex_label_key">sdd</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.0011150989926515778</data>
+        </node>
+        <node id="KEYWORD_326">
+            <data key="vertex_label_key">documentação</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.0010634008623337183</data>
+        </node>
+        <node id="KEYWORD_340">
+            <data key="vertex_label_key">tela</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">2.1467187927589295E-4</data>
+        </node>
+        <node id="KEYWORD_349">
+            <data key="vertex_label_key">ios</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">6.125501437987458E-4</data>
+        </node>
+        <node id="KEYWORD_351">
+            <data key="vertex_label_key">aplicativo</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.002033671894665989</data>
+        </node>
+        <node id="KEYWORD_357">
+            <data key="vertex_label_key">windows</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">8.917662744656263E-4</data>
+        </node>
+        <node id="KEYWORD_361">
+            <data key="vertex_label_key">backend</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.00819672131147541</data>
+        </node>
+        <node id="CHANNEL_20">
+            <data key="vertex_label_key">Renato_Gava</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="KEYWORD_364">
+            <data key="vertex_label_key">biblioteca</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">5.584622277986809E-4</data>
+        </node>
+        <node id="KEYWORD_411">
+            <data key="vertex_label_key">delphi</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">0.008196721311475409</data>
+        </node>
+        <node id="CHANNEL_233">
+            <data key="vertex_label_key">Prof._André_Nobre</data>
+            <data key="key0">CHANNEL</data>
+            <data key="key3">255</data>
+            <data key="key4">0.0</data>
+        </node>
+        <node id="KEYWORD_430">
+            <data key="vertex_label_key">hermes</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">3.3856140417517247E-4</data>
+        </node>
+        <node id="KEYWORD_451">
+            <data key="vertex_label_key">funcional</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">2.235031877303543E-4</data>
+        </node>
+        <node id="KEYWORD_458">
+            <data key="vertex_label_key">opencode</data>
+            <data key="key0">KEYWORD</data>
+            <data key="key2">255</data>
+            <data key="key4">4.103244577446755E-4</data>
+        </node>
+        <edge source="KEYWORD_1" target="CHANNEL_1">
+            <data key="edge_label_key">(css : Fiasco)</data>
+        </edge>
+        <edge source="KEYWORD_1" target="CHANNEL_4">
+            <data key="edge_label_key">(css : CriaScript)</data>
+        </edge>
+        <edge source="KEYWORD_1" target="CHANNEL_86">
+            <data key="edge_label_key">(css : Serliv_|_Daniel_Tapias_Morales)</data>
+        </edge>
+        <edge source="KEYWORD_1" target="CHANNEL_110">
+            <data key="edge_label_key">(css : Adriano_Viana)</data>
+        </edge>
+        <edge source="KEYWORD_1" target="CHANNEL_81">
+            <data key="edge_label_key">(css : Coisa_de_Nômade)</data>
+        </edge>
+        <edge source="KEYWORD_1" target="CHANNEL_65">
+            <data key="edge_label_key">(css : DevClub_|_Programação)</data>
+        </edge>
+        <edge source="KEYWORD_1" target="CHANNEL_52">
+            <data key="edge_label_key">(css : freeCodeCamp_em_Português)</data>
+        </edge>
+        <edge source="KEYWORD_1" target="CHANNEL_170">
+            <data key="edge_label_key">(css : DuarttHub)</data>
+        </edge>
+        <edge source="KEYWORD_1" target="CHANNEL_6">
+            <data key="edge_label_key">(css : Larissa_Kich)</data>
+        </edge>
+        <edge source="KEYWORD_1" target="CHANNEL_46">
+            <data key="edge_label_key">(css : Caminho_do_Código)</data>
+        </edge>
+        <edge source="KEYWORD_2" target="CHANNEL_1">
+            <data key="edge_label_key">(javas : Fiasco)</data>
+        </edge>
+        <edge source="KEYWORD_2" target="CHANNEL_58">
+            <data key="edge_label_key">(javas : Dev_Junior_Alves)</data>
+        </edge>
+        <edge source="KEYWORD_2" target="CHANNEL_86">
+            <data key="edge_label_key">(javas : Serliv_|_Daniel_Tapias_Morales)</data>
+        </edge>
+        <edge source="KEYWORD_2" target="CHANNEL_170">
+            <data key="edge_label_key">(javas : DuarttHub)</data>
+        </edge>
+        <edge source="KEYWORD_2" target="CHANNEL_193">
+            <data key="edge_label_key">(javas : Rafael_-_AI)</data>
+        </edge>
+        <edge source="KEYWORD_2" target="CHANNEL_160">
+            <data key="edge_label_key">(javas : Dev_Victor_Navarro)</data>
+        </edge>
+        <edge source="KEYWORD_3" target="CHANNEL_1">
+            <data key="edge_label_key">(html : Fiasco)</data>
+        </edge>
+        <edge source="KEYWORD_3" target="CHANNEL_86">
+            <data key="edge_label_key">(html : Serliv_|_Daniel_Tapias_Morales)</data>
+        </edge>
+        <edge source="KEYWORD_3" target="CHANNEL_81">
+            <data key="edge_label_key">(html : Coisa_de_Nômade)</data>
+        </edge>
+        <edge source="KEYWORD_3" target="CHANNEL_193">
+            <data key="edge_label_key">(html : Rafael_-_AI)</data>
+        </edge>
+        <edge source="KEYWORD_4" target="CHANNEL_1">
+            <data key="edge_label_key">(portugol : Fiasco)</data>
+        </edge>
+        <edge source="KEYWORD_4" target="CHANNEL_112">
+            <data key="edge_label_key">(portugol : Web_Programadores)</data>
+        </edge>
+        <edge source="KEYWORD_4" target="CHANNEL_189">
+            <data key="edge_label_key">(portugol : MarcosPS)</data>
+        </edge>
+        <edge source="KEYWORD_5" target="CHANNEL_1">
+            <data key="edge_label_key">(react : Fiasco)</data>
+        </edge>
+        <edge source="KEYWORD_5" target="CHANNEL_58">
+            <data key="edge_label_key">(react : Dev_Junior_Alves)</data>
+        </edge>
+        <edge source="KEYWORD_7" target="CHANNEL_1">
+            <data key="edge_label_key">(github : Fiasco)</data>
+        </edge>
+        <edge source="KEYWORD_7" target="CHANNEL_6">
+            <data key="edge_label_key">(github : Larissa_Kich)</data>
+        </edge>
+        <edge source="KEYWORD_7" target="CHANNEL_92">
+            <data key="edge_label_key">(github : pythonando)</data>
+        </edge>
+        <edge source="KEYWORD_7" target="CHANNEL_120">
+            <data key="edge_label_key">(github : Micael_Mota)</data>
+        </edge>
+        <edge source="KEYWORD_7" target="CHANNEL_142">
+            <data key="edge_label_key">(github : FZF_Productions)</data>
+        </edge>
+        <edge source="KEYWORD_7" target="CHANNEL_145">
+            <data key="edge_label_key">(github : Mente_Maker)</data>
+        </edge>
+        <edge source="KEYWORD_7" target="CHANNEL_85">
+            <data key="edge_label_key">(github : Felipe_Rocha_•_Full_Stack_Club)</data>
+        </edge>
+        <edge source="KEYWORD_7" target="CHANNEL_128">
+            <data key="edge_label_key">(github : Locaweb)</data>
+        </edge>
+        <edge source="KEYWORD_7" target="CHANNEL_35">
+            <data key="edge_label_key">(github : mano_deyvin)</data>
+        </edge>
+        <edge source="KEYWORD_7" target="CHANNEL_160">
+            <data key="edge_label_key">(github : Dev_Victor_Navarro)</data>
+        </edge>
+        <edge source="KEYWORD_7" target="CHANNEL_181">
+            <data key="edge_label_key">(github : Alessandro_Varela)</data>
+        </edge>
+        <edge source="KEYWORD_7" target="CHANNEL_231">
+            <data key="edge_label_key">(github : O_hacker_cego)</data>
+        </edge>
+        <edge source="KEYWORD_9" target="CHANNEL_1">
+            <data key="edge_label_key">(roadmap : Fiasco)</data>
+        </edge>
+        <edge source="KEYWORD_9" target="CHANNEL_45">
+            <data key="edge_label_key">(roadmap : Attekita_Dev)</data>
+        </edge>
+        <edge source="KEYWORD_9" target="CHANNEL_185">
+            <data key="edge_label_key">(roadmap : Jiraverso_-_Especialistas_em_Jira)</data>
+        </edge>
+        <edge source="KEYWORD_10" target="CHANNEL_1">
+            <data key="edge_label_key">(bootstrap : Fiasco)</data>
+        </edge>
+        <edge source="KEYWORD_10" target="CHANNEL_156">
+            <data key="edge_label_key">(bootstrap : MAYKON_SILVEIRA)</data>
+        </edge>
+        <edge source="KEYWORD_11" target="CHANNEL_1">
+            <data key="edge_label_key">(git : Fiasco)</data>
+        </edge>
+        <edge source="KEYWORD_11" target="CHANNEL_160">
+            <data key="edge_label_key">(git : Dev_Victor_Navarro)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_2">
+            <data key="edge_label_key">(tecnologia : Bits_Bytes_Cortes)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_10">
+            <data key="edge_label_key">(tecnologia : daniops)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_24">
+            <data key="edge_label_key">(tecnologia : Aguiar_Dev)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_29">
+            <data key="edge_label_key">(tecnologia : Renato_Augusto)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_30">
+            <data key="edge_label_key">(tecnologia : Programador_BR)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_33">
+            <data key="edge_label_key">(tecnologia : spacecoding)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_45">
+            <data key="edge_label_key">(tecnologia : Attekita_Dev)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_59">
+            <data key="edge_label_key">(tecnologia : Gustavo_Tomazoli)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_71">
+            <data key="edge_label_key">(tecnologia : Alexandre_Leutz)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_72">
+            <data key="edge_label_key">(tecnologia : Tech_Evy)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_75">
+            <data key="edge_label_key">(tecnologia : Eu_TI_Ensino)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_76">
+            <data key="edge_label_key">(tecnologia : Fernanda_Kipper_|_Dev)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_85">
+            <data key="edge_label_key">(tecnologia : Felipe_Rocha_•_Full_Stack_Club)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_106">
+            <data key="edge_label_key">(tecnologia : hAMPTER)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_107">
+            <data key="edge_label_key">(tecnologia : Spacelaxy)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_129">
+            <data key="edge_label_key">(tecnologia : Área_Tech_Brasil)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_137">
+            <data key="edge_label_key">(tecnologia : Guilherme_Pereira)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_160">
+            <data key="edge_label_key">(tecnologia : Dev_Victor_Navarro)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_174">
+            <data key="edge_label_key">(tecnologia : Prof._Rogério_Napoleão_Jr.)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_210">
+            <data key="edge_label_key">(tecnologia : Full_Cycle)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_221">
+            <data key="edge_label_key">(tecnologia : Danilo_Brizola_|_Surfando_com_IA)</data>
+        </edge>
+        <edge source="KEYWORD_12" target="CHANNEL_21">
+            <data key="edge_label_key">(tecnologia : Pedro_Passos)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_5">
+            <data key="edge_label_key">(sistema : Code)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_13">
+            <data key="edge_label_key">(sistema : Manual_do_Mundo)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_19">
+            <data key="edge_label_key">(sistema : Refatorando)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_29">
+            <data key="edge_label_key">(sistema : Renato_Augusto)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_36">
+            <data key="edge_label_key">(sistema : Gustavo_Caetano)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_71">
+            <data key="edge_label_key">(sistema : Alexandre_Leutz)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_83">
+            <data key="edge_label_key">(sistema : Rafael_Brito)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_85">
+            <data key="edge_label_key">(sistema : Felipe_Rocha_•_Full_Stack_Club)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_100">
+            <data key="edge_label_key">(sistema : Bóson_Treinamentos)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_114">
+            <data key="edge_label_key">(sistema : Loid_Padre)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_81">
+            <data key="edge_label_key">(sistema : Coisa_de_Nômade)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_113">
+            <data key="edge_label_key">(sistema : pessonizando)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_142">
+            <data key="edge_label_key">(sistema : FZF_Productions)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_128">
+            <data key="edge_label_key">(sistema : Locaweb)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_153">
+            <data key="edge_label_key">(sistema : Caio_H_Perlin)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_156">
+            <data key="edge_label_key">(sistema : MAYKON_SILVEIRA)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_163">
+            <data key="edge_label_key">(sistema : Marcelo_David_-_Treinamentos)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_174">
+            <data key="edge_label_key">(sistema : Prof._Rogério_Napoleão_Jr.)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_182">
+            <data key="edge_label_key">(sistema : TinoTech)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_189">
+            <data key="edge_label_key">(sistema : MarcosPS)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_192">
+            <data key="edge_label_key">(sistema : Rogerio_Pontes_TI)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_38">
+            <data key="edge_label_key">(sistema : João_Alves)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_64">
+            <data key="edge_label_key">(sistema : Alura)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_219">
+            <data key="edge_label_key">(sistema : Rafael_Lunardelli_(O_Pinguim_do_Laravel))</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_183">
+            <data key="edge_label_key">(sistema : Crescencio_Lima)</data>
+        </edge>
+        <edge source="KEYWORD_15" target="CHANNEL_222">
+            <data key="edge_label_key">(sistema : alfacompbrasil)</data>
+        </edge>
+        <edge source="KEYWORD_16" target="CHANNEL_6">
+            <data key="edge_label_key">(rede : Larissa_Kich)</data>
+        </edge>
+        <edge source="KEYWORD_16" target="CHANNEL_14">
+            <data key="edge_label_key">(rede : DevMedia)</data>
+        </edge>
+        <edge source="KEYWORD_16" target="CHANNEL_17">
+            <data key="edge_label_key">(rede : Hashtag_Programação)</data>
+        </edge>
+        <edge source="KEYWORD_16" target="CHANNEL_19">
+            <data key="edge_label_key">(rede : Refatorando)</data>
+        </edge>
+        <edge source="KEYWORD_16" target="CHANNEL_21">
+            <data key="edge_label_key">(rede : Pedro_Passos)</data>
+        </edge>
+        <edge source="KEYWORD_16" target="CHANNEL_35">
+            <data key="edge_label_key">(rede : mano_deyvin)</data>
+        </edge>
+        <edge source="KEYWORD_16" target="CHANNEL_44">
+            <data key="edge_label_key">(rede : Dev_Robert)</data>
+        </edge>
+        <edge source="KEYWORD_16" target="CHANNEL_92">
+            <data key="edge_label_key">(rede : pythonando)</data>
+        </edge>
+        <edge source="KEYWORD_16" target="CHANNEL_101">
+            <data key="edge_label_key">(rede : Cod3r_Cursos)</data>
+        </edge>
+        <edge source="KEYWORD_16" target="CHANNEL_111">
+            <data key="edge_label_key">(rede : Universo_Programado)</data>
+        </edge>
+        <edge source="KEYWORD_16" target="CHANNEL_121">
+            <data key="edge_label_key">(rede : Bruno_Siqueira_-_Simplificando_Celular)</data>
+        </edge>
+        <edge source="KEYWORD_16" target="CHANNEL_128">
+            <data key="edge_label_key">(rede : Locaweb)</data>
+        </edge>
+        <edge source="KEYWORD_16" target="CHANNEL_143">
+            <data key="edge_label_key">(rede : Diolinux_Labs)</data>
+        </edge>
+        <edge source="KEYWORD_16" target="CHANNEL_164">
+            <data key="edge_label_key">(rede : &#128293;TrenDs_News_&#128640;)</data>
+        </edge>
+        <edge source="KEYWORD_16" target="CHANNEL_175">
+            <data key="edge_label_key">(rede : Dev_em_Dobro_LIVES_|_Programação)</data>
+        </edge>
+        <edge source="KEYWORD_16" target="CHANNEL_228">
+            <data key="edge_label_key">(rede : Carreira_Tech)</data>
+        </edge>
+        <edge source="KEYWORD_17" target="CHANNEL_6">
+            <data key="edge_label_key">(erro : Larissa_Kich)</data>
+        </edge>
+        <edge source="KEYWORD_17" target="CHANNEL_192">
+            <data key="edge_label_key">(erro : Rogerio_Pontes_TI)</data>
+        </edge>
+        <edge source="KEYWORD_17" target="CHANNEL_160">
+            <data key="edge_label_key">(erro : Dev_Victor_Navarro)</data>
+        </edge>
+        <edge source="KEYWORD_18" target="CHANNEL_7">
+            <data key="edge_label_key">(engenharia : UNIVESP)</data>
+        </edge>
+        <edge source="KEYWORD_18" target="CHANNEL_10">
+            <data key="edge_label_key">(engenharia : daniops)</data>
+        </edge>
+        <edge source="KEYWORD_18" target="CHANNEL_19">
+            <data key="edge_label_key">(engenharia : Refatorando)</data>
+        </edge>
+        <edge source="KEYWORD_18" target="CHANNEL_29">
+            <data key="edge_label_key">(engenharia : Renato_Augusto)</data>
+        </edge>
+        <edge source="KEYWORD_18" target="CHANNEL_44">
+            <data key="edge_label_key">(engenharia : Dev_Robert)</data>
+        </edge>
+        <edge source="KEYWORD_18" target="CHANNEL_114">
+            <data key="edge_label_key">(engenharia : Loid_Padre)</data>
+        </edge>
+        <edge source="KEYWORD_18" target="CHANNEL_148">
+            <data key="edge_label_key">(engenharia : Gran_Cursos_Online)</data>
+        </edge>
+        <edge source="KEYWORD_18" target="CHANNEL_183">
+            <data key="edge_label_key">(engenharia : Crescencio_Lima)</data>
+        </edge>
+        <edge source="KEYWORD_18" target="CHANNEL_199">
+            <data key="edge_label_key">(engenharia : Eu,_Sabrina)</data>
+        </edge>
+        <edge source="KEYWORD_18" target="CHANNEL_38">
+            <data key="edge_label_key">(engenharia : João_Alves)</data>
+        </edge>
+        <edge source="KEYWORD_21" target="CHANNEL_8">
+            <data key="edge_label_key">(plataforma : Rocketseat)</data>
+        </edge>
+        <edge source="KEYWORD_21" target="CHANNEL_43">
+            <data key="edge_label_key">(plataforma : Código_Fonte_TV)</data>
+        </edge>
+        <edge source="KEYWORD_21" target="CHANNEL_54">
+            <data key="edge_label_key">(plataforma : Elber_Domingos_|_IMPACTUS_Academy)</data>
+        </edge>
+        <edge source="KEYWORD_21" target="CHANNEL_100">
+            <data key="edge_label_key">(plataforma : Bóson_Treinamentos)</data>
+        </edge>
+        <edge source="KEYWORD_21" target="CHANNEL_138">
+            <data key="edge_label_key">(plataforma : Eric_Grassi)</data>
+        </edge>
+        <edge source="KEYWORD_22" target="CHANNEL_10">
+            <data key="edge_label_key">(processo : daniops)</data>
+        </edge>
+        <edge source="KEYWORD_22" target="CHANNEL_23">
+            <data key="edge_label_key">(processo : José_Castilho_-_Desenvolvedor_Disputado)</data>
+        </edge>
+        <edge source="KEYWORD_22" target="CHANNEL_158">
+            <data key="edge_label_key">(processo : Breno_Vieira_LionLab_)</data>
+        </edge>
+        <edge source="KEYWORD_22" target="CHANNEL_162">
+            <data key="edge_label_key">(processo : Felipe_Alves)</data>
+        </edge>
+        <edge source="KEYWORD_22" target="CHANNEL_180">
+            <data key="edge_label_key">(processo : Carlos_Gouvea)</data>
+        </edge>
+        <edge source="KEYWORD_22" target="CHANNEL_217">
+            <data key="edge_label_key">(processo : VRTech_Tecnologias_Industriais)</data>
+        </edge>
+        <edge source="KEYWORD_26" target="CHANNEL_12">
+            <data key="edge_label_key">(jogo : Curso_em_Vídeo)</data>
+        </edge>
+        <edge source="KEYWORD_26" target="CHANNEL_19">
+            <data key="edge_label_key">(jogo : Refatorando)</data>
+        </edge>
+        <edge source="KEYWORD_26" target="CHANNEL_107">
+            <data key="edge_label_key">(jogo : Spacelaxy)</data>
+        </edge>
+        <edge source="KEYWORD_26" target="CHANNEL_110">
+            <data key="edge_label_key">(jogo : Adriano_Viana)</data>
+        </edge>
+        <edge source="KEYWORD_26" target="CHANNEL_168">
+            <data key="edge_label_key">(jogo : Tiago_Aguiar)</data>
+        </edge>
+        <edge source="KEYWORD_26" target="CHANNEL_194">
+            <data key="edge_label_key">(jogo : Do_Zero_ao_Indie)</data>
+        </edge>
+        <edge source="KEYWORD_26" target="CHANNEL_221">
+            <data key="edge_label_key">(jogo : Danilo_Brizola_|_Surfando_com_IA)</data>
+        </edge>
+        <edge source="KEYWORD_28" target="CHANNEL_12">
+            <data key="edge_label_key">(python : Curso_em_Vídeo)</data>
+        </edge>
+        <edge source="KEYWORD_28" target="CHANNEL_32">
+            <data key="edge_label_key">(python : Eficiência_Programada)</data>
+        </edge>
+        <edge source="KEYWORD_28" target="CHANNEL_40">
+            <data key="edge_label_key">(python : bremado)</data>
+        </edge>
+        <edge source="KEYWORD_28" target="CHANNEL_74">
+            <data key="edge_label_key">(python : Mateo_Valderrama)</data>
+        </edge>
+        <edge source="KEYWORD_28" target="CHANNEL_17">
+            <data key="edge_label_key">(python : Hashtag_Programação)</data>
+        </edge>
+        <edge source="KEYWORD_28" target="CHANNEL_145">
+            <data key="edge_label_key">(python : Mente_Maker)</data>
+        </edge>
+        <edge source="KEYWORD_28" target="CHANNEL_170">
+            <data key="edge_label_key">(python : DuarttHub)</data>
+        </edge>
+        <edge source="KEYWORD_28" target="CHANNEL_46">
+            <data key="edge_label_key">(python : Caminho_do_Código)</data>
+        </edge>
+        <edge source="KEYWORD_28" target="CHANNEL_160">
+            <data key="edge_label_key">(python : Dev_Victor_Navarro)</data>
+        </edge>
+        <edge source="KEYWORD_28" target="CHANNEL_223">
+            <data key="edge_label_key">(python : Felipe_Talks)</data>
+        </edge>
+        <edge source="KEYWORD_37" target="CHANNEL_13">
+            <data key="edge_label_key">(programa : Manual_do_Mundo)</data>
+        </edge>
+        <edge source="KEYWORD_37" target="CHANNEL_155">
+            <data key="edge_label_key">(programa : Video_Makers_Art)</data>
+        </edge>
+        <edge source="KEYWORD_37" target="CHANNEL_189">
+            <data key="edge_label_key">(programa : MarcosPS)</data>
+        </edge>
+        <edge source="KEYWORD_37" target="CHANNEL_192">
+            <data key="edge_label_key">(programa : Rogerio_Pontes_TI)</data>
+        </edge>
+        <edge source="KEYWORD_40" target="CHANNEL_14">
+            <data key="edge_label_key">(programador : DevMedia)</data>
+        </edge>
+        <edge source="KEYWORD_40" target="CHANNEL_26">
+            <data key="edge_label_key">(programador : DevZito)</data>
+        </edge>
+        <edge source="KEYWORD_40" target="CHANNEL_29">
+            <data key="edge_label_key">(programador : Renato_Augusto)</data>
+        </edge>
+        <edge source="KEYWORD_40" target="CHANNEL_31">
+            <data key="edge_label_key">(programador : Yudi_Ganeko)</data>
+        </edge>
+        <edge source="KEYWORD_40" target="CHANNEL_4">
+            <data key="edge_label_key">(programador : CriaScript)</data>
+        </edge>
+        <edge source="KEYWORD_40" target="CHANNEL_16">
+            <data key="edge_label_key">(programador : Victor_Lima_-_Ciência_da_Computação)</data>
+        </edge>
+        <edge source="KEYWORD_40" target="CHANNEL_45">
+            <data key="edge_label_key">(programador : Attekita_Dev)</data>
+        </edge>
+        <edge source="KEYWORD_40" target="CHANNEL_58">
+            <data key="edge_label_key">(programador : Dev_Junior_Alves)</data>
+        </edge>
+        <edge source="KEYWORD_40" target="CHANNEL_86">
+            <data key="edge_label_key">(programador : Serliv_|_Daniel_Tapias_Morales)</data>
+        </edge>
+        <edge source="KEYWORD_40" target="CHANNEL_102">
+            <data key="edge_label_key">(programador : NerdLife)</data>
+        </edge>
+        <edge source="KEYWORD_40" target="CHANNEL_110">
+            <data key="edge_label_key">(programador : Adriano_Viana)</data>
+        </edge>
+        <edge source="KEYWORD_40" target="CHANNEL_129">
+            <data key="edge_label_key">(programador : Área_Tech_Brasil)</data>
+        </edge>
+        <edge source="KEYWORD_40" target="CHANNEL_165">
+            <data key="edge_label_key">(programador : Derci_Santos_-_Dev)</data>
+        </edge>
+        <edge source="KEYWORD_40" target="CHANNEL_174">
+            <data key="edge_label_key">(programador : Prof._Rogério_Napoleão_Jr.)</data>
+        </edge>
+        <edge source="KEYWORD_40" target="CHANNEL_191">
+            <data key="edge_label_key">(programador : Adriano_Santos_Treinamentos)</data>
+        </edge>
+        <edge source="KEYWORD_40" target="CHANNEL_38">
+            <data key="edge_label_key">(programador : João_Alves)</data>
+        </edge>
+        <edge source="KEYWORD_40" target="CHANNEL_127">
+            <data key="edge_label_key">(programador : Lucas_Montano)</data>
+        </edge>
+        <edge source="KEYWORD_40" target="CHANNEL_227">
+            <data key="edge_label_key">(programador : Super_Cut's)</data>
+        </edge>
+        <edge source="KEYWORD_40" target="CHANNEL_228">
+            <data key="edge_label_key">(programador : Carreira_Tech)</data>
+        </edge>
+        <edge source="KEYWORD_41" target="CHANNEL_14">
+            <data key="edge_label_key">(stack : DevMedia)</data>
+        </edge>
+        <edge source="KEYWORD_41" target="CHANNEL_85">
+            <data key="edge_label_key">(stack : Felipe_Rocha_•_Full_Stack_Club)</data>
+        </edge>
+        <edge source="KEYWORD_41" target="CHANNEL_156">
+            <data key="edge_label_key">(stack : MAYKON_SILVEIRA)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_8">
+            <data key="edge_label_key">(código : Rocketseat)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_18">
+            <data key="edge_label_key">(código : Investindo_em_Tech)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_26">
+            <data key="edge_label_key">(código : DevZito)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_31">
+            <data key="edge_label_key">(código : Yudi_Ganeko)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_43">
+            <data key="edge_label_key">(código : Código_Fonte_TV)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_19">
+            <data key="edge_label_key">(código : Refatorando)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_63">
+            <data key="edge_label_key">(código : Mundo_Tech_Software_School)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_64">
+            <data key="edge_label_key">(código : Alura)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_33">
+            <data key="edge_label_key">(código : spacecoding)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_100">
+            <data key="edge_label_key">(código : Bóson_Treinamentos)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_102">
+            <data key="edge_label_key">(código : NerdLife)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_108">
+            <data key="edge_label_key">(código : Dev_Duck)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_119">
+            <data key="edge_label_key">(código : @_HDEV_Info_by_Robson_Mendonça)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_124">
+            <data key="edge_label_key">(código : Mago_Acadêmico)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_126">
+            <data key="edge_label_key">(código : Canal_do_Rubão)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_127">
+            <data key="edge_label_key">(código : Lucas_Montano)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_114">
+            <data key="edge_label_key">(código : Loid_Padre)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_147">
+            <data key="edge_label_key">(código : Hostinger_Brasil)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_150">
+            <data key="edge_label_key">(código : Maestros_da_IA)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_46">
+            <data key="edge_label_key">(código : Caminho_do_Código)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_86">
+            <data key="edge_label_key">(código : Serliv_|_Daniel_Tapias_Morales)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_192">
+            <data key="edge_label_key">(código : Rogerio_Pontes_TI)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_35">
+            <data key="edge_label_key">(código : mano_deyvin)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_216">
+            <data key="edge_label_key">(código : Programação_&amp;_Dev_Games:_C/C++_Unreal_e_Blueprints)</data>
+        </edge>
+        <edge source="KEYWORD_44" target="CHANNEL_222">
+            <data key="edge_label_key">(código : alfacompbrasil)</data>
+        </edge>
+        <edge source="KEYWORD_46" target="CHANNEL_8">
+            <data key="edge_label_key">(teste : Rocketseat)</data>
+        </edge>
+        <edge source="KEYWORD_46" target="CHANNEL_85">
+            <data key="edge_label_key">(teste : Felipe_Rocha_•_Full_Stack_Club)</data>
+        </edge>
+        <edge source="KEYWORD_46" target="CHANNEL_100">
+            <data key="edge_label_key">(teste : Bóson_Treinamentos)</data>
+        </edge>
+        <edge source="KEYWORD_46" target="CHANNEL_113">
+            <data key="edge_label_key">(teste : pessonizando)</data>
+        </edge>
+        <edge source="KEYWORD_46" target="CHANNEL_131">
+            <data key="edge_label_key">(teste : Leonardo_Luz)</data>
+        </edge>
+        <edge source="KEYWORD_46" target="CHANNEL_134">
+            <data key="edge_label_key">(teste : Argonalyst)</data>
+        </edge>
+        <edge source="KEYWORD_46" target="CHANNEL_146">
+            <data key="edge_label_key">(teste : Testing_Company)</data>
+        </edge>
+        <edge source="KEYWORD_46" target="CHANNEL_183">
+            <data key="edge_label_key">(teste : Crescencio_Lima)</data>
+        </edge>
+        <edge source="KEYWORD_46" target="CHANNEL_193">
+            <data key="edge_label_key">(teste : Rafael_-_AI)</data>
+        </edge>
+        <edge source="KEYWORD_46" target="CHANNEL_204">
+            <data key="edge_label_key">(teste : Fulltureschool)</data>
+        </edge>
+        <edge source="KEYWORD_46" target="CHANNEL_230">
+            <data key="edge_label_key">(teste : O_Cara_do_Teste)</data>
+        </edge>
+        <edge source="KEYWORD_46" target="CHANNEL_58">
+            <data key="edge_label_key">(teste : Dev_Junior_Alves)</data>
+        </edge>
+        <edge source="KEYWORD_47" target="CHANNEL_8">
+            <data key="edge_label_key">(solução : Rocketseat)</data>
+        </edge>
+        <edge source="KEYWORD_47" target="CHANNEL_29">
+            <data key="edge_label_key">(solução : Renato_Augusto)</data>
+        </edge>
+        <edge source="KEYWORD_47" target="CHANNEL_101">
+            <data key="edge_label_key">(solução : Cod3r_Cursos)</data>
+        </edge>
+        <edge source="KEYWORD_47" target="CHANNEL_185">
+            <data key="edge_label_key">(solução : Jiraverso_-_Especialistas_em_Jira)</data>
+        </edge>
+        <edge source="KEYWORD_48" target="CHANNEL_8">
+            <data key="edge_label_key">(requisito : Rocketseat)</data>
+        </edge>
+        <edge source="KEYWORD_48" target="CHANNEL_114">
+            <data key="edge_label_key">(requisito : Loid_Padre)</data>
+        </edge>
+        <edge source="KEYWORD_48" target="CHANNEL_183">
+            <data key="edge_label_key">(requisito : Crescencio_Lima)</data>
+        </edge>
+        <edge source="KEYWORD_48" target="CHANNEL_113">
+            <data key="edge_label_key">(requisito : pessonizando)</data>
+        </edge>
+        <edge source="KEYWORD_52" target="CHANNEL_13">
+            <data key="edge_label_key">(computador : Manual_do_Mundo)</data>
+        </edge>
+        <edge source="KEYWORD_52" target="CHANNEL_155">
+            <data key="edge_label_key">(computador : Video_Makers_Art)</data>
+        </edge>
+        <edge source="KEYWORD_52" target="CHANNEL_46">
+            <data key="edge_label_key">(computador : Caminho_do_Código)</data>
+        </edge>
+        <edge source="KEYWORD_52" target="CHANNEL_216">
+            <data key="edge_label_key">(computador : Programação_&amp;_Dev_Games:_C/C++_Unreal_e_Blueprints)</data>
+        </edge>
+        <edge source="KEYWORD_54" target="CHANNEL_13">
+            <data key="edge_label_key">(tarefa : Manual_do_Mundo)</data>
+        </edge>
+        <edge source="KEYWORD_54" target="CHANNEL_138">
+            <data key="edge_label_key">(tarefa : Eric_Grassi)</data>
+        </edge>
+        <edge source="KEYWORD_54" target="CHANNEL_149">
+            <data key="edge_label_key">(tarefa : Deviot)</data>
+        </edge>
+        <edge source="KEYWORD_54" target="CHANNEL_193">
+            <data key="edge_label_key">(tarefa : Rafael_-_AI)</data>
+        </edge>
+        <edge source="KEYWORD_54" target="CHANNEL_195">
+            <data key="edge_label_key">(tarefa : Vini_Lana)</data>
+        </edge>
+        <edge source="KEYWORD_54" target="CHANNEL_204">
+            <data key="edge_label_key">(tarefa : Fulltureschool)</data>
+        </edge>
+        <edge source="KEYWORD_54" target="CHANNEL_221">
+            <data key="edge_label_key">(tarefa : Danilo_Brizola_|_Surfando_com_IA)</data>
+        </edge>
+        <edge source="KEYWORD_54" target="CHANNEL_225">
+            <data key="edge_label_key">(tarefa : Descomplicando_a_TI)</data>
+        </edge>
+        <edge source="KEYWORD_57" target="CHANNEL_16">
+            <data key="edge_label_key">(php : Victor_Lima_-_Ciência_da_Computação)</data>
+        </edge>
+        <edge source="KEYWORD_57" target="CHANNEL_132">
+            <data key="edge_label_key">(php : Karsharg)</data>
+        </edge>
+        <edge source="KEYWORD_58" target="CHANNEL_16">
+            <data key="edge_label_key">(aplicação : Victor_Lima_-_Ciência_da_Computação)</data>
+        </edge>
+        <edge source="KEYWORD_58" target="CHANNEL_222">
+            <data key="edge_label_key">(aplicação : alfacompbrasil)</data>
+        </edge>
+        <edge source="KEYWORD_62" target="CHANNEL_18">
+            <data key="edge_label_key">(desenvolvedor : Investindo_em_Tech)</data>
+        </edge>
+        <edge source="KEYWORD_62" target="CHANNEL_56">
+            <data key="edge_label_key">(desenvolvedor : HighDev4)</data>
+        </edge>
+        <edge source="KEYWORD_62" target="CHANNEL_81">
+            <data key="edge_label_key">(desenvolvedor : Coisa_de_Nômade)</data>
+        </edge>
+        <edge source="KEYWORD_62" target="CHANNEL_85">
+            <data key="edge_label_key">(desenvolvedor : Felipe_Rocha_•_Full_Stack_Club)</data>
+        </edge>
+        <edge source="KEYWORD_62" target="CHANNEL_130">
+            <data key="edge_label_key">(desenvolvedor : Giaretta)</data>
+        </edge>
+        <edge source="KEYWORD_62" target="CHANNEL_160">
+            <data key="edge_label_key">(desenvolvedor : Dev_Victor_Navarro)</data>
+        </edge>
+        <edge source="KEYWORD_62" target="CHANNEL_129">
+            <data key="edge_label_key">(desenvolvedor : Área_Tech_Brasil)</data>
+        </edge>
+        <edge source="KEYWORD_62" target="CHANNEL_228">
+            <data key="edge_label_key">(desenvolvedor : Carreira_Tech)</data>
+        </edge>
+        <edge source="KEYWORD_62" target="CHANNEL_21">
+            <data key="edge_label_key">(desenvolvedor : Pedro_Passos)</data>
+        </edge>
+        <edge source="KEYWORD_63" target="CHANNEL_19">
+            <data key="edge_label_key">(ti : Refatorando)</data>
+        </edge>
+        <edge source="KEYWORD_63" target="CHANNEL_71">
+            <data key="edge_label_key">(ti : Alexandre_Leutz)</data>
+        </edge>
+        <edge source="KEYWORD_63" target="CHANNEL_129">
+            <data key="edge_label_key">(ti : Área_Tech_Brasil)</data>
+        </edge>
+        <edge source="KEYWORD_63" target="CHANNEL_148">
+            <data key="edge_label_key">(ti : Gran_Cursos_Online)</data>
+        </edge>
+        <edge source="KEYWORD_63" target="CHANNEL_164">
+            <data key="edge_label_key">(ti : &#128293;TrenDs_News_&#128640;)</data>
+        </edge>
+        <edge source="KEYWORD_67" target="CHANNEL_19">
+            <data key="edge_label_key">(dado : Refatorando)</data>
+        </edge>
+        <edge source="KEYWORD_67" target="CHANNEL_71">
+            <data key="edge_label_key">(dado : Alexandre_Leutz)</data>
+        </edge>
+        <edge source="KEYWORD_67" target="CHANNEL_86">
+            <data key="edge_label_key">(dado : Serliv_|_Daniel_Tapias_Morales)</data>
+        </edge>
+        <edge source="KEYWORD_67" target="CHANNEL_132">
+            <data key="edge_label_key">(dado : Karsharg)</data>
+        </edge>
+        <edge source="KEYWORD_67" target="CHANNEL_145">
+            <data key="edge_label_key">(dado : Mente_Maker)</data>
+        </edge>
+        <edge source="KEYWORD_67" target="CHANNEL_174">
+            <data key="edge_label_key">(dado : Prof._Rogério_Napoleão_Jr.)</data>
+        </edge>
+        <edge source="KEYWORD_67" target="CHANNEL_177">
+            <data key="edge_label_key">(dado : Tiago_A._Silva)</data>
+        </edge>
+        <edge source="KEYWORD_67" target="CHANNEL_181">
+            <data key="edge_label_key">(dado : Alessandro_Varela)</data>
+        </edge>
+        <edge source="KEYWORD_67" target="CHANNEL_182">
+            <data key="edge_label_key">(dado : TinoTech)</data>
+        </edge>
+        <edge source="KEYWORD_67" target="CHANNEL_192">
+            <data key="edge_label_key">(dado : Rogerio_Pontes_TI)</data>
+        </edge>
+        <edge source="KEYWORD_67" target="CHANNEL_35">
+            <data key="edge_label_key">(dado : mano_deyvin)</data>
+        </edge>
+        <edge source="KEYWORD_67" target="CHANNEL_222">
+            <data key="edge_label_key">(dado : alfacompbrasil)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_19">
+            <data key="edge_label_key">(projeto : Refatorando)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_21">
+            <data key="edge_label_key">(projeto : Pedro_Passos)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_30">
+            <data key="edge_label_key">(projeto : Programador_BR)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_8">
+            <data key="edge_label_key">(projeto : Rocketseat)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_86">
+            <data key="edge_label_key">(projeto : Serliv_|_Daniel_Tapias_Morales)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_100">
+            <data key="edge_label_key">(projeto : Bóson_Treinamentos)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_119">
+            <data key="edge_label_key">(projeto : @_HDEV_Info_by_Robson_Mendonça)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_126">
+            <data key="edge_label_key">(projeto : Canal_do_Rubão)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_127">
+            <data key="edge_label_key">(projeto : Lucas_Montano)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_128">
+            <data key="edge_label_key">(projeto : Locaweb)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_114">
+            <data key="edge_label_key">(projeto : Loid_Padre)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_133">
+            <data key="edge_label_key">(projeto : Rafael_Quintanilha_–_QuantBrasil)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_138">
+            <data key="edge_label_key">(projeto : Eric_Grassi)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_149">
+            <data key="edge_label_key">(projeto : Deviot)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_156">
+            <data key="edge_label_key">(projeto : MAYKON_SILVEIRA)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_158">
+            <data key="edge_label_key">(projeto : Breno_Vieira_LionLab_)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_160">
+            <data key="edge_label_key">(projeto : Dev_Victor_Navarro)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_76">
+            <data key="edge_label_key">(projeto : Fernanda_Kipper_|_Dev)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_46">
+            <data key="edge_label_key">(projeto : Caminho_do_Código)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_181">
+            <data key="edge_label_key">(projeto : Alessandro_Varela)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_185">
+            <data key="edge_label_key">(projeto : Jiraverso_-_Especialistas_em_Jira)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_204">
+            <data key="edge_label_key">(projeto : Fulltureschool)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_210">
+            <data key="edge_label_key">(projeto : Full_Cycle)</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_219">
+            <data key="edge_label_key">(projeto : Rafael_Lunardelli_(O_Pinguim_do_Laravel))</data>
+        </edge>
+        <edge source="KEYWORD_69" target="CHANNEL_209">
+            <data key="edge_label_key">(projeto : Juriolli_Code)</data>
+        </edge>
+        <edge source="KEYWORD_81" target="CHANNEL_29">
+            <data key="edge_label_key">(arquitetura : Renato_Augusto)</data>
+        </edge>
+        <edge source="KEYWORD_81" target="CHANNEL_43">
+            <data key="edge_label_key">(arquitetura : Código_Fonte_TV)</data>
+        </edge>
+        <edge source="KEYWORD_81" target="CHANNEL_75">
+            <data key="edge_label_key">(arquitetura : Eu_TI_Ensino)</data>
+        </edge>
+        <edge source="KEYWORD_81" target="CHANNEL_128">
+            <data key="edge_label_key">(arquitetura : Locaweb)</data>
+        </edge>
+        <edge source="KEYWORD_81" target="CHANNEL_181">
+            <data key="edge_label_key">(arquitetura : Alessandro_Varela)</data>
+        </edge>
+        <edge source="KEYWORD_81" target="CHANNEL_184">
+            <data key="edge_label_key">(arquitetura : Theu)</data>
+        </edge>
+        <edge source="KEYWORD_81" target="CHANNEL_64">
+            <data key="edge_label_key">(arquitetura : Alura)</data>
+        </edge>
+        <edge source="KEYWORD_81" target="CHANNEL_58">
+            <data key="edge_label_key">(arquitetura : Dev_Junior_Alves)</data>
+        </edge>
+        <edge source="KEYWORD_84" target="CHANNEL_31">
+            <data key="edge_label_key">(java : Yudi_Ganeko)</data>
+        </edge>
+        <edge source="KEYWORD_84" target="CHANNEL_77">
+            <data key="edge_label_key">(java : Professora_Nattane)</data>
+        </edge>
+        <edge source="KEYWORD_84" target="CHANNEL_126">
+            <data key="edge_label_key">(java : Canal_do_Rubão)</data>
+        </edge>
+        <edge source="KEYWORD_84" target="CHANNEL_128">
+            <data key="edge_label_key">(java : Locaweb)</data>
+        </edge>
+        <edge source="KEYWORD_84" target="CHANNEL_166">
+            <data key="edge_label_key">(java : DevSuperior)</data>
+        </edge>
+        <edge source="KEYWORD_84" target="CHANNEL_170">
+            <data key="edge_label_key">(java : DuarttHub)</data>
+        </edge>
+        <edge source="KEYWORD_84" target="CHANNEL_129">
+            <data key="edge_label_key">(java : Área_Tech_Brasil)</data>
+        </edge>
+        <edge source="KEYWORD_84" target="CHANNEL_223">
+            <data key="edge_label_key">(java : Felipe_Talks)</data>
+        </edge>
+        <edge source="KEYWORD_85" target="CHANNEL_31">
+            <data key="edge_label_key">(função : Yudi_Ganeko)</data>
+        </edge>
+        <edge source="KEYWORD_85" target="CHANNEL_128">
+            <data key="edge_label_key">(função : Locaweb)</data>
+        </edge>
+        <edge source="KEYWORD_85" target="CHANNEL_46">
+            <data key="edge_label_key">(função : Caminho_do_Código)</data>
+        </edge>
+        <edge source="KEYWORD_87" target="CHANNEL_33">
+            <data key="edge_label_key">(tech : spacecoding)</data>
+        </edge>
+        <edge source="KEYWORD_87" target="CHANNEL_143">
+            <data key="edge_label_key">(tech : Diolinux_Labs)</data>
+        </edge>
+        <edge source="KEYWORD_87" target="CHANNEL_19">
+            <data key="edge_label_key">(tech : Refatorando)</data>
+        </edge>
+        <edge source="KEYWORD_87" target="CHANNEL_21">
+            <data key="edge_label_key">(tech : Pedro_Passos)</data>
+        </edge>
+        <edge source="KEYWORD_88" target="CHANNEL_36">
+            <data key="edge_label_key">(demanda : Gustavo_Caetano)</data>
+        </edge>
+        <edge source="KEYWORD_88" target="CHANNEL_129">
+            <data key="edge_label_key">(demanda : Área_Tech_Brasil)</data>
+        </edge>
+        <edge source="KEYWORD_94" target="CHANNEL_45">
+            <data key="edge_label_key">(portfólio : Attekita_Dev)</data>
+        </edge>
+        <edge source="KEYWORD_94" target="CHANNEL_86">
+            <data key="edge_label_key">(portfólio : Serliv_|_Daniel_Tapias_Morales)</data>
+        </edge>
+        <edge source="KEYWORD_95" target="CHANNEL_45">
+            <data key="edge_label_key">(site : Attekita_Dev)</data>
+        </edge>
+        <edge source="KEYWORD_95" target="CHANNEL_81">
+            <data key="edge_label_key">(site : Coisa_de_Nômade)</data>
+        </edge>
+        <edge source="KEYWORD_95" target="CHANNEL_159">
+            <data key="edge_label_key">(site : FGP_data)</data>
+        </edge>
+        <edge source="KEYWORD_95" target="CHANNEL_177">
+            <data key="edge_label_key">(site : Tiago_A._Silva)</data>
+        </edge>
+        <edge source="KEYWORD_95" target="CHANNEL_192">
+            <data key="edge_label_key">(site : Rogerio_Pontes_TI)</data>
+        </edge>
+        <edge source="KEYWORD_95" target="CHANNEL_205">
+            <data key="edge_label_key">(site : Wander_Pereira)</data>
+        </edge>
+        <edge source="KEYWORD_95" target="CHANNEL_80">
+            <data key="edge_label_key">(site : Jef_Dicas_Tech_&#128241;Tecnologia_)</data>
+        </edge>
+        <edge source="KEYWORD_97" target="CHANNEL_43">
+            <data key="edge_label_key">(framework : Código_Fonte_TV)</data>
+        </edge>
+        <edge source="KEYWORD_97" target="CHANNEL_8">
+            <data key="edge_label_key">(framework : Rocketseat)</data>
+        </edge>
+        <edge source="KEYWORD_97" target="CHANNEL_46">
+            <data key="edge_label_key">(framework : Caminho_do_Código)</data>
+        </edge>
+        <edge source="KEYWORD_97" target="CHANNEL_181">
+            <data key="edge_label_key">(framework : Alessandro_Varela)</data>
+        </edge>
+        <edge source="KEYWORD_97" target="CHANNEL_100">
+            <data key="edge_label_key">(framework : Bóson_Treinamentos)</data>
+        </edge>
+        <edge source="KEYWORD_99" target="CHANNEL_43">
+            <data key="edge_label_key">(game : Código_Fonte_TV)</data>
+        </edge>
+        <edge source="KEYWORD_99" target="CHANNEL_216">
+            <data key="edge_label_key">(game : Programação_&amp;_Dev_Games:_C/C++_Unreal_e_Blueprints)</data>
+        </edge>
+        <edge source="KEYWORD_106" target="CHANNEL_51">
+            <data key="edge_label_key">(coding : brunomarcosluz)</data>
+        </edge>
+        <edge source="KEYWORD_106" target="CHANNEL_84">
+            <data key="edge_label_key">(coding : NoCode_StartUp)</data>
+        </edge>
+        <edge source="KEYWORD_106" target="CHANNEL_181">
+            <data key="edge_label_key">(coding : Alessandro_Varela)</data>
+        </edge>
+        <edge source="KEYWORD_107" target="CHANNEL_54">
+            <data key="edge_label_key">(app : Elber_Domingos_|_IMPACTUS_Academy)</data>
+        </edge>
+        <edge source="KEYWORD_107" target="CHANNEL_176">
+            <data key="edge_label_key">(app : Formula_APK)</data>
+        </edge>
+        <edge source="KEYWORD_108" target="CHANNEL_54">
+            <data key="edge_label_key">(editor : Elber_Domingos_|_IMPACTUS_Academy)</data>
+        </edge>
+        <edge source="KEYWORD_108" target="CHANNEL_33">
+            <data key="edge_label_key">(editor : spacecoding)</data>
+        </edge>
+        <edge source="KEYWORD_109" target="CHANNEL_58">
+            <data key="edge_label_key">(pasta : Dev_Junior_Alves)</data>
+        </edge>
+        <edge source="KEYWORD_109" target="CHANNEL_192">
+            <data key="edge_label_key">(pasta : Rogerio_Pontes_TI)</data>
+        </edge>
+        <edge source="KEYWORD_110" target="CHANNEL_58">
+            <data key="edge_label_key">(estrutura : Dev_Junior_Alves)</data>
+        </edge>
+        <edge source="KEYWORD_110" target="CHANNEL_86">
+            <data key="edge_label_key">(estrutura : Serliv_|_Daniel_Tapias_Morales)</data>
+        </edge>
+        <edge source="KEYWORD_110" target="CHANNEL_46">
+            <data key="edge_label_key">(estrutura : Caminho_do_Código)</data>
+        </edge>
+        <edge source="KEYWORD_117" target="CHANNEL_63">
+            <data key="edge_label_key">(modelo : Mundo_Tech_Software_School)</data>
+        </edge>
+        <edge source="KEYWORD_117" target="CHANNEL_100">
+            <data key="edge_label_key">(modelo : Bóson_Treinamentos)</data>
+        </edge>
+        <edge source="KEYWORD_117" target="CHANNEL_181">
+            <data key="edge_label_key">(modelo : Alessandro_Varela)</data>
+        </edge>
+        <edge source="KEYWORD_117" target="CHANNEL_193">
+            <data key="edge_label_key">(modelo : Rafael_-_AI)</data>
+        </edge>
+        <edge source="KEYWORD_117" target="CHANNEL_183">
+            <data key="edge_label_key">(modelo : Crescencio_Lima)</data>
+        </edge>
+        <edge source="KEYWORD_117" target="CHANNEL_231">
+            <data key="edge_label_key">(modelo : O_hacker_cego)</data>
+        </edge>
+        <edge source="KEYWORD_130" target="CHANNEL_71">
+            <data key="edge_label_key">(analista : Alexandre_Leutz)</data>
+        </edge>
+        <edge source="KEYWORD_130" target="CHANNEL_100">
+            <data key="edge_label_key">(analista : Bóson_Treinamentos)</data>
+        </edge>
+        <edge source="KEYWORD_135" target="CHANNEL_74">
+            <data key="edge_label_key">(api : Mateo_Valderrama)</data>
+        </edge>
+        <edge source="KEYWORD_135" target="CHANNEL_46">
+            <data key="edge_label_key">(api : Caminho_do_Código)</data>
+        </edge>
+        <edge source="KEYWORD_135" target="CHANNEL_100">
+            <data key="edge_label_key">(api : Bóson_Treinamentos)</data>
+        </edge>
+        <edge source="KEYWORD_139" target="CHANNEL_84">
+            <data key="edge_label_key">(vibe : NoCode_StartUp)</data>
+        </edge>
+        <edge source="KEYWORD_139" target="CHANNEL_158">
+            <data key="edge_label_key">(vibe : Breno_Vieira_LionLab_)</data>
+        </edge>
+        <edge source="KEYWORD_139" target="CHANNEL_164">
+            <data key="edge_label_key">(vibe : &#128293;TrenDs_News_&#128640;)</data>
+        </edge>
+        <edge source="KEYWORD_141" target="CHANNEL_84">
+            <data key="edge_label_key">(cursor : NoCode_StartUp)</data>
+        </edge>
+        <edge source="KEYWORD_141" target="CHANNEL_134">
+            <data key="edge_label_key">(cursor : Argonalyst)</data>
+        </edge>
+        <edge source="KEYWORD_141" target="CHANNEL_35">
+            <data key="edge_label_key">(cursor : mano_deyvin)</data>
+        </edge>
+        <edge source="KEYWORD_142" target="CHANNEL_84">
+            <data key="edge_label_key">(ferramenta : NoCode_StartUp)</data>
+        </edge>
+        <edge source="KEYWORD_142" target="CHANNEL_130">
+            <data key="edge_label_key">(ferramenta : Giaretta)</data>
+        </edge>
+        <edge source="KEYWORD_142" target="CHANNEL_129">
+            <data key="edge_label_key">(ferramenta : Área_Tech_Brasil)</data>
+        </edge>
+        <edge source="KEYWORD_142" target="CHANNEL_138">
+            <data key="edge_label_key">(ferramenta : Eric_Grassi)</data>
+        </edge>
+        <edge source="KEYWORD_142" target="CHANNEL_150">
+            <data key="edge_label_key">(ferramenta : Maestros_da_IA)</data>
+        </edge>
+        <edge source="KEYWORD_142" target="CHANNEL_182">
+            <data key="edge_label_key">(ferramenta : TinoTech)</data>
+        </edge>
+        <edge source="KEYWORD_142" target="CHANNEL_184">
+            <data key="edge_label_key">(ferramenta : Theu)</data>
+        </edge>
+        <edge source="KEYWORD_142" target="CHANNEL_186">
+            <data key="edge_label_key">(ferramenta : TechDicas_Diárias)</data>
+        </edge>
+        <edge source="KEYWORD_142" target="CHANNEL_193">
+            <data key="edge_label_key">(ferramenta : Rafael_-_AI)</data>
+        </edge>
+        <edge source="KEYWORD_142" target="CHANNEL_35">
+            <data key="edge_label_key">(ferramenta : mano_deyvin)</data>
+        </edge>
+        <edge source="KEYWORD_144" target="CHANNEL_86">
+            <data key="edge_label_key">(algoritmo : Serliv_|_Daniel_Tapias_Morales)</data>
+        </edge>
+        <edge source="KEYWORD_144" target="CHANNEL_110">
+            <data key="edge_label_key">(algoritmo : Adriano_Viana)</data>
+        </edge>
+        <edge source="KEYWORD_144" target="CHANNEL_189">
+            <data key="edge_label_key">(algoritmo : MarcosPS)</data>
+        </edge>
+        <edge source="KEYWORD_144" target="CHANNEL_58">
+            <data key="edge_label_key">(algoritmo : Dev_Junior_Alves)</data>
+        </edge>
+        <edge source="KEYWORD_145" target="CHANNEL_86">
+            <data key="edge_label_key">(design : Serliv_|_Daniel_Tapias_Morales)</data>
+        </edge>
+        <edge source="KEYWORD_145" target="CHANNEL_126">
+            <data key="edge_label_key">(design : Canal_do_Rubão)</data>
+        </edge>
+        <edge source="KEYWORD_151" target="CHANNEL_97">
+            <data key="edge_label_key">(chatgpt : Pato_Lab)</data>
+        </edge>
+        <edge source="KEYWORD_151" target="CHANNEL_130">
+            <data key="edge_label_key">(chatgpt : Giaretta)</data>
+        </edge>
+        <edge source="KEYWORD_159" target="CHANNEL_100">
+            <data key="edge_label_key">(mysql : Bóson_Treinamentos)</data>
+        </edge>
+        <edge source="KEYWORD_159" target="CHANNEL_177">
+            <data key="edge_label_key">(mysql : Tiago_A._Silva)</data>
+        </edge>
+        <edge source="KEYWORD_159" target="CHANNEL_192">
+            <data key="edge_label_key">(mysql : Rogerio_Pontes_TI)</data>
+        </edge>
+        <edge source="KEYWORD_162" target="CHANNEL_85">
+            <data key="edge_label_key">(fluxo : Felipe_Rocha_•_Full_Stack_Club)</data>
+        </edge>
+        <edge source="KEYWORD_162" target="CHANNEL_139">
+            <data key="edge_label_key">(fluxo : Hora_do_Dev)</data>
+        </edge>
+        <edge source="KEYWORD_162" target="CHANNEL_161">
+            <data key="edge_label_key">(fluxo : Rapha_Moura_-_Simplify_AWS)</data>
+        </edge>
+        <edge source="KEYWORD_164" target="CHANNEL_85">
+            <data key="edge_label_key">(agente : Felipe_Rocha_•_Full_Stack_Club)</data>
+        </edge>
+        <edge source="KEYWORD_164" target="CHANNEL_150">
+            <data key="edge_label_key">(agente : Maestros_da_IA)</data>
+        </edge>
+        <edge source="KEYWORD_164" target="CHANNEL_181">
+            <data key="edge_label_key">(agente : Alessandro_Varela)</data>
+        </edge>
+        <edge source="KEYWORD_164" target="CHANNEL_195">
+            <data key="edge_label_key">(agente : Vini_Lana)</data>
+        </edge>
+        <edge source="KEYWORD_164" target="CHANNEL_219">
+            <data key="edge_label_key">(agente : Rafael_Lunardelli_(O_Pinguim_do_Laravel))</data>
+        </edge>
+        <edge source="KEYWORD_164" target="CHANNEL_231">
+            <data key="edge_label_key">(agente : O_hacker_cego)</data>
+        </edge>
+        <edge source="KEYWORD_165" target="CHANNEL_85">
+            <data key="edge_label_key">(qualidade : Felipe_Rocha_•_Full_Stack_Club)</data>
+        </edge>
+        <edge source="KEYWORD_165" target="CHANNEL_107">
+            <data key="edge_label_key">(qualidade : Spacelaxy)</data>
+        </edge>
+        <edge source="KEYWORD_165" target="CHANNEL_113">
+            <data key="edge_label_key">(qualidade : pessonizando)</data>
+        </edge>
+        <edge source="KEYWORD_165" target="CHANNEL_183">
+            <data key="edge_label_key">(qualidade : Crescencio_Lima)</data>
+        </edge>
+        <edge source="KEYWORD_165" target="CHANNEL_204">
+            <data key="edge_label_key">(qualidade : Fulltureschool)</data>
+        </edge>
+        <edge source="KEYWORD_165" target="CHANNEL_230">
+            <data key="edge_label_key">(qualidade : O_Cara_do_Teste)</data>
+        </edge>
+        <edge source="KEYWORD_167" target="CHANNEL_85">
+            <data key="edge_label_key">(copilot : Felipe_Rocha_•_Full_Stack_Club)</data>
+        </edge>
+        <edge source="KEYWORD_167" target="CHANNEL_35">
+            <data key="edge_label_key">(copilot : mano_deyvin)</data>
+        </edge>
+        <edge source="KEYWORD_183" target="CHANNEL_110">
+            <data key="edge_label_key">(padrão : Adriano_Viana)</data>
+        </edge>
+        <edge source="KEYWORD_183" target="CHANNEL_46">
+            <data key="edge_label_key">(padrão : Caminho_do_Código)</data>
+        </edge>
+        <edge source="KEYWORD_187" target="CHANNEL_113">
+            <data key="edge_label_key">(segurança : pessonizando)</data>
+        </edge>
+        <edge source="KEYWORD_187" target="CHANNEL_160">
+            <data key="edge_label_key">(segurança : Dev_Victor_Navarro)</data>
+        </edge>
+        <edge source="KEYWORD_187" target="CHANNEL_43">
+            <data key="edge_label_key">(segurança : Código_Fonte_TV)</data>
+        </edge>
+        <edge source="KEYWORD_190" target="CHANNEL_113">
+            <data key="edge_label_key">(iso : pessonizando)</data>
+        </edge>
+        <edge source="KEYWORD_190" target="CHANNEL_153">
+            <data key="edge_label_key">(iso : Caio_H_Perlin)</data>
+        </edge>
+        <edge source="KEYWORD_194" target="CHANNEL_114">
+            <data key="edge_label_key">(funcionalidade : Loid_Padre)</data>
+        </edge>
+        <edge source="KEYWORD_194" target="CHANNEL_138">
+            <data key="edge_label_key">(funcionalidade : Eric_Grassi)</data>
+        </edge>
+        <edge source="KEYWORD_194" target="CHANNEL_46">
+            <data key="edge_label_key">(funcionalidade : Caminho_do_Código)</data>
+        </edge>
+        <edge source="KEYWORD_194" target="CHANNEL_193">
+            <data key="edge_label_key">(funcionalidade : Rafael_-_AI)</data>
+        </edge>
+        <edge source="KEYWORD_195" target="CHANNEL_114">
+            <data key="edge_label_key">(diagrama : Loid_Padre)</data>
+        </edge>
+        <edge source="KEYWORD_195" target="CHANNEL_184">
+            <data key="edge_label_key">(diagrama : Theu)</data>
+        </edge>
+        <edge source="KEYWORD_206" target="CHANNEL_81">
+            <data key="edge_label_key">(página : Coisa_de_Nômade)</data>
+        </edge>
+        <edge source="KEYWORD_206" target="CHANNEL_178">
+            <data key="edge_label_key">(página : DevPedroPP)</data>
+        </edge>
+        <edge source="KEYWORD_206" target="CHANNEL_222">
+            <data key="edge_label_key">(página : alfacompbrasil)</data>
+        </edge>
+        <edge source="KEYWORD_240" target="CHANNEL_114">
+            <data key="edge_label_key">(documento : Loid_Padre)</data>
+        </edge>
+        <edge source="KEYWORD_240" target="CHANNEL_158">
+            <data key="edge_label_key">(documento : Breno_Vieira_LionLab_)</data>
+        </edge>
+        <edge source="KEYWORD_241" target="CHANNEL_132">
+            <data key="edge_label_key">(banco : Karsharg)</data>
+        </edge>
+        <edge source="KEYWORD_241" target="CHANNEL_177">
+            <data key="edge_label_key">(banco : Tiago_A._Silva)</data>
+        </edge>
+        <edge source="KEYWORD_241" target="CHANNEL_192">
+            <data key="edge_label_key">(banco : Rogerio_Pontes_TI)</data>
+        </edge>
+        <edge source="KEYWORD_244" target="CHANNEL_133">
+            <data key="edge_label_key">(kanban : Rafael_Quintanilha_–_QuantBrasil)</data>
+        </edge>
+        <edge source="KEYWORD_244" target="CHANNEL_167">
+            <data key="edge_label_key">(kanban : Technologiká)</data>
+        </edge>
+        <edge source="KEYWORD_249" target="CHANNEL_137">
+            <data key="edge_label_key">(informação : Guilherme_Pereira)</data>
+        </edge>
+        <edge source="KEYWORD_249" target="CHANNEL_182">
+            <data key="edge_label_key">(informação : TinoTech)</data>
+        </edge>
+        <edge source="KEYWORD_249" target="CHANNEL_218">
+            <data key="edge_label_key">(informação : True_Hacking)</data>
+        </edge>
+        <edge source="KEYWORD_251" target="CHANNEL_138">
+            <data key="edge_label_key">(jira : Eric_Grassi)</data>
+        </edge>
+        <edge source="KEYWORD_251" target="CHANNEL_185">
+            <data key="edge_label_key">(jira : Jiraverso_-_Especialistas_em_Jira)</data>
+        </edge>
+        <edge source="KEYWORD_253" target="CHANNEL_138">
+            <data key="edge_label_key">(configuração : Eric_Grassi)</data>
+        </edge>
+        <edge source="KEYWORD_253" target="CHANNEL_231">
+            <data key="edge_label_key">(configuração : O_hacker_cego)</data>
+        </edge>
+        <edge source="KEYWORD_255" target="CHANNEL_138">
+            <data key="edge_label_key">(conta : Eric_Grassi)</data>
+        </edge>
+        <edge source="KEYWORD_255" target="CHANNEL_223">
+            <data key="edge_label_key">(conta : Felipe_Talks)</data>
+        </edge>
+        <edge source="KEYWORD_269" target="CHANNEL_85">
+            <data key="edge_label_key">(kit : Felipe_Rocha_•_Full_Stack_Club)</data>
+        </edge>
+        <edge source="KEYWORD_269" target="CHANNEL_100">
+            <data key="edge_label_key">(kit : Bóson_Treinamentos)</data>
+        </edge>
+        <edge source="KEYWORD_269" target="CHANNEL_181">
+            <data key="edge_label_key">(kit : Alessandro_Varela)</data>
+        </edge>
+        <edge source="KEYWORD_271" target="CHANNEL_85">
+            <data key="edge_label_key">(development : Felipe_Rocha_•_Full_Stack_Club)</data>
+        </edge>
+        <edge source="KEYWORD_271" target="CHANNEL_100">
+            <data key="edge_label_key">(development : Bóson_Treinamentos)</data>
+        </edge>
+        <edge source="KEYWORD_271" target="CHANNEL_181">
+            <data key="edge_label_key">(development : Alessandro_Varela)</data>
+        </edge>
+        <edge source="KEYWORD_272" target="CHANNEL_85">
+            <data key="edge_label_key">(code : Felipe_Rocha_•_Full_Stack_Club)</data>
+        </edge>
+        <edge source="KEYWORD_272" target="CHANNEL_181">
+            <data key="edge_label_key">(code : Alessandro_Varela)</data>
+        </edge>
+        <edge source="KEYWORD_272" target="CHANNEL_35">
+            <data key="edge_label_key">(code : mano_deyvin)</data>
+        </edge>
+        <edge source="KEYWORD_280" target="CHANNEL_147">
+            <data key="edge_label_key">(saas : Hostinger_Brasil)</data>
+        </edge>
+        <edge source="KEYWORD_280" target="CHANNEL_156">
+            <data key="edge_label_key">(saas : MAYKON_SILVEIRA)</data>
+        </edge>
+        <edge source="KEYWORD_283" target="CHANNEL_147">
+            <data key="edge_label_key">(claude : Hostinger_Brasil)</data>
+        </edge>
+        <edge source="KEYWORD_283" target="CHANNEL_181">
+            <data key="edge_label_key">(claude : Alessandro_Varela)</data>
+        </edge>
+        <edge source="KEYWORD_283" target="CHANNEL_35">
+            <data key="edge_label_key">(claude : mano_deyvin)</data>
+        </edge>
+        <edge source="KEYWORD_283" target="CHANNEL_160">
+            <data key="edge_label_key">(claude : Dev_Victor_Navarro)</data>
+        </edge>
+        <edge source="KEYWORD_287" target="CHANNEL_147">
+            <data key="edge_label_key">(produto : Hostinger_Brasil)</data>
+        </edge>
+        <edge source="KEYWORD_287" target="CHANNEL_160">
+            <data key="edge_label_key">(produto : Dev_Victor_Navarro)</data>
+        </edge>
+        <edge source="KEYWORD_287" target="CHANNEL_185">
+            <data key="edge_label_key">(produto : Jiraverso_-_Especialistas_em_Jira)</data>
+        </edge>
+        <edge source="KEYWORD_287" target="CHANNEL_217">
+            <data key="edge_label_key">(produto : VRTech_Tecnologias_Industriais)</data>
+        </edge>
+        <edge source="KEYWORD_287" target="CHANNEL_183">
+            <data key="edge_label_key">(produto : Crescencio_Lima)</data>
+        </edge>
+        <edge source="KEYWORD_294" target="CHANNEL_150">
+            <data key="edge_label_key">(comando : Maestros_da_IA)</data>
+        </edge>
+        <edge source="KEYWORD_294" target="CHANNEL_190">
+            <data key="edge_label_key">(comando : Michelli_Brito)</data>
+        </edge>
+        <edge source="KEYWORD_297" target="CHANNEL_150">
+            <data key="edge_label_key">(automação : Maestros_da_IA)</data>
+        </edge>
+        <edge source="KEYWORD_297" target="CHANNEL_182">
+            <data key="edge_label_key">(automação : TinoTech)</data>
+        </edge>
+        <edge source="KEYWORD_297" target="CHANNEL_195">
+            <data key="edge_label_key">(automação : Vini_Lana)</data>
+        </edge>
+        <edge source="KEYWORD_297" target="CHANNEL_230">
+            <data key="edge_label_key">(automação : O_Cara_do_Teste)</data>
+        </edge>
+        <edge source="KEYWORD_301" target="CHANNEL_153">
+            <data key="edge_label_key">(instalação : Caio_H_Perlin)</data>
+        </edge>
+        <edge source="KEYWORD_301" target="CHANNEL_192">
+            <data key="edge_label_key">(instalação : Rogerio_Pontes_TI)</data>
+        </edge>
+        <edge source="KEYWORD_301" target="CHANNEL_222">
+            <data key="edge_label_key">(instalação : alfacompbrasil)</data>
+        </edge>
+        <edge source="KEYWORD_301" target="CHANNEL_231">
+            <data key="edge_label_key">(instalação : O_hacker_cego)</data>
+        </edge>
+        <edge source="KEYWORD_306" target="CHANNEL_153">
+            <data key="edge_label_key">(linux : Caio_H_Perlin)</data>
+        </edge>
+        <edge source="KEYWORD_306" target="CHANNEL_192">
+            <data key="edge_label_key">(linux : Rogerio_Pontes_TI)</data>
+        </edge>
+        <edge source="KEYWORD_311" target="CHANNEL_156">
+            <data key="edge_label_key">(laravel : MAYKON_SILVEIRA)</data>
+        </edge>
+        <edge source="KEYWORD_311" target="CHANNEL_173">
+            <data key="edge_label_key">(laravel : Eduteka_)</data>
+        </edge>
+        <edge source="KEYWORD_311" target="CHANNEL_219">
+            <data key="edge_label_key">(laravel : Rafael_Lunardelli_(O_Pinguim_do_Laravel))</data>
+        </edge>
+        <edge source="KEYWORD_315" target="CHANNEL_156">
+            <data key="edge_label_key">(arquivo : MAYKON_SILVEIRA)</data>
+        </edge>
+        <edge source="KEYWORD_315" target="CHANNEL_182">
+            <data key="edge_label_key">(arquivo : TinoTech)</data>
+        </edge>
+        <edge source="KEYWORD_315" target="CHANNEL_192">
+            <data key="edge_label_key">(arquivo : Rogerio_Pontes_TI)</data>
+        </edge>
+        <edge source="KEYWORD_315" target="CHANNEL_206">
+            <data key="edge_label_key">(arquivo : Jeterson_Lordano_|_Dev_&amp;_Tech)</data>
+        </edge>
+        <edge source="KEYWORD_315" target="CHANNEL_160">
+            <data key="edge_label_key">(arquivo : Dev_Victor_Navarro)</data>
+        </edge>
+        <edge source="KEYWORD_315" target="CHANNEL_222">
+            <data key="edge_label_key">(arquivo : alfacompbrasil)</data>
+        </edge>
+        <edge source="KEYWORD_322" target="CHANNEL_158">
+            <data key="edge_label_key">(contexto : Breno_Vieira_LionLab_)</data>
+        </edge>
+        <edge source="KEYWORD_322" target="CHANNEL_181">
+            <data key="edge_label_key">(contexto : Alessandro_Varela)</data>
+        </edge>
+        <edge source="KEYWORD_323" target="CHANNEL_158">
+            <data key="edge_label_key">(prd : Breno_Vieira_LionLab_)</data>
+        </edge>
+        <edge source="KEYWORD_323" target="CHANNEL_181">
+            <data key="edge_label_key">(prd : Alessandro_Varela)</data>
+        </edge>
+        <edge source="KEYWORD_324" target="CHANNEL_158">
+            <data key="edge_label_key">(sdd : Breno_Vieira_LionLab_)</data>
+        </edge>
+        <edge source="KEYWORD_324" target="CHANNEL_181">
+            <data key="edge_label_key">(sdd : Alessandro_Varela)</data>
+        </edge>
+        <edge source="KEYWORD_326" target="CHANNEL_158">
+            <data key="edge_label_key">(documentação : Breno_Vieira_LionLab_)</data>
+        </edge>
+        <edge source="KEYWORD_326" target="CHANNEL_221">
+            <data key="edge_label_key">(documentação : Danilo_Brizola_|_Surfando_com_IA)</data>
+        </edge>
+        <edge source="KEYWORD_340" target="CHANNEL_163">
+            <data key="edge_label_key">(tela : Marcelo_David_-_Treinamentos)</data>
+        </edge>
+        <edge source="KEYWORD_340" target="CHANNEL_222">
+            <data key="edge_label_key">(tela : alfacompbrasil)</data>
+        </edge>
+        <edge source="KEYWORD_349" target="CHANNEL_168">
+            <data key="edge_label_key">(ios : Tiago_Aguiar)</data>
+        </edge>
+        <edge source="KEYWORD_349" target="CHANNEL_191">
+            <data key="edge_label_key">(ios : Adriano_Santos_Treinamentos)</data>
+        </edge>
+        <edge source="KEYWORD_351" target="CHANNEL_168">
+            <data key="edge_label_key">(aplicativo : Tiago_Aguiar)</data>
+        </edge>
+        <edge source="KEYWORD_351" target="CHANNEL_174">
+            <data key="edge_label_key">(aplicativo : Prof._Rogério_Napoleão_Jr.)</data>
+        </edge>
+        <edge source="KEYWORD_357" target="CHANNEL_8">
+            <data key="edge_label_key">(windows : Rocketseat)</data>
+        </edge>
+        <edge source="KEYWORD_357" target="CHANNEL_192">
+            <data key="edge_label_key">(windows : Rogerio_Pontes_TI)</data>
+        </edge>
+        <edge source="KEYWORD_361" target="CHANNEL_20">
+            <data key="edge_label_key">(backend : Renato_Gava)</data>
+        </edge>
+        <edge source="KEYWORD_361" target="CHANNEL_193">
+            <data key="edge_label_key">(backend : Rafael_-_AI)</data>
+        </edge>
+        <edge source="KEYWORD_364" target="CHANNEL_46">
+            <data key="edge_label_key">(biblioteca : Caminho_do_Código)</data>
+        </edge>
+        <edge source="KEYWORD_364" target="CHANNEL_100">
+            <data key="edge_label_key">(biblioteca : Bóson_Treinamentos)</data>
+        </edge>
+        <edge source="KEYWORD_411" target="CHANNEL_191">
+            <data key="edge_label_key">(delphi : Adriano_Santos_Treinamentos)</data>
+        </edge>
+        <edge source="KEYWORD_411" target="CHANNEL_233">
+            <data key="edge_label_key">(delphi : Prof._André_Nobre)</data>
+        </edge>
+        <edge source="KEYWORD_430" target="CHANNEL_195">
+            <data key="edge_label_key">(hermes : Vini_Lana)</data>
+        </edge>
+        <edge source="KEYWORD_430" target="CHANNEL_231">
+            <data key="edge_label_key">(hermes : O_hacker_cego)</data>
+        </edge>
+        <edge source="KEYWORD_451" target="CHANNEL_113">
+            <data key="edge_label_key">(funcional : pessonizando)</data>
+        </edge>
+        <edge source="KEYWORD_451" target="CHANNEL_230">
+            <data key="edge_label_key">(funcional : O_Cara_do_Teste)</data>
+        </edge>
+        <edge source="KEYWORD_458" target="CHANNEL_219">
+            <data key="edge_label_key">(opencode : Rafael_Lunardelli_(O_Pinguim_do_Laravel))</data>
+        </edge>
+        <edge source="KEYWORD_458" target="CHANNEL_231">
+            <data key="edge_label_key">(opencode : O_hacker_cego)</data>
+        </edge>
+    </graph>
+</graphml>
